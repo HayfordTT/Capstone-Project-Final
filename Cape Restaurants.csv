@@ -1,0 +1,204 @@
+,Name,Distance,Categories,Latitude,Longitude,Id,Neighborhood,Likes,Categories_Rest
+2,Vida E Caffè,424,Café,-33.8800206224521,18.63583157110421,53884c6d498e39acdc8e2ea0,Bellville,13,Restaurant
+4,Yuz Sushi,420,Sushi Restaurant,-33.88008035580786,18.635715593392188,4dc19693b0fb1c18ee67094d,Bellville,8,Restaurant
+7,Cattle Baron Grill House,736,Steakhouse,-33.87873,18.63165,4daf12894df0f639f2595242,Bellville,20,Restaurant
+8,Yummy zone,823,Sushi Restaurant,-33.87633671030918,18.636945057877476,4f47cbeae4b0683d4ec88271,Bellville,7,Restaurant
+9,Copper Club Eatery,996,Burger Joint,-33.876739501953125,18.6301326751709,564dfed8498ee48b0efd5236,Bellville,5,Restaurant
+10,Cantina Tequila,249,Mexican Restaurant,-33.88189197237465,18.63533815442785,4f9bb9cfe4b0b045845a4892,Bellville,9,Restaurant
+13,Stones,356,Bar,-33.88067423375431,18.63574697560959,4d500e72abb4594169deb718,Bellville,3,Restaurant
+15,Buckleys Pub and Foosball Bar,229,Bar,-33.88204412884141,18.63544355459686,4bf2c0cc55c7c9b6bb736204,Bellville,9,Restaurant
+18,Vesuvio Pizzaria,929,Pizza Place,-33.877582220784895,18.630070122624964,4eea3dc80aafda6d14e95d11,Bellville,9,Restaurant
+0,Kamili Coffee,217,Coffee Shop,-33.922034,18.41977,53ca29bb498e3cb77a910554,City Bowl,74,Restaurant
+2,Bombay Brasserie,162,Indian Restaurant,-33.92476688168477,18.419785837838326,4baa769ff964a5207d6c3ae3,City Bowl,36,Restaurant
+3,Aces 'n Spades,273,Bar,-33.92138527642458,18.42000551633646,502e9348e4b047efecff0430,City Bowl,121,Restaurant
+5,Bread Milk & Honey,206,Café,-33.92551953577516,18.421444371745203,4b864d10f964a5203f8531e3,City Bowl,64,Restaurant
+6,The Gin Bar,371,Cocktail Bar,-33.92273288691907,18.417150034224644,54d63408498e31d1e8e09e57,City Bowl,132,Restaurant
+9,Moro Gelato,360,Dessert Shop,-33.924214,18.41714,597ca4f5a6fe4d0dfc06d374,City Bowl,14,Restaurant
+10,Daddy cool,287,Bar,-33.921155,18.420494,4be0617898f2a593360cc25a,City Bowl,12,Restaurant
+12,Yourstruly,370,Coffee Shop,-33.92431943340237,18.417055746248256,4cd50dac8e5b6a317f1b74ac,City Bowl,62,Restaurant
+13,The Shortmarket Club,343,French Restaurant,-33.92131098622614,18.418652007874677,577801a2498ee32e9821b7ae,City Bowl,59,Restaurant
+14,Honest Chocolate Café,370,Café,-33.92273011702641,18.417155985817132,54955dc0498e505982e2a598,City Bowl,49,Restaurant
+15,Food Lover's Market,118,Restaurant,-33.92317129835544,18.41988525681402,50c98ac5e4b090de85b20bed,City Bowl,94,Restaurant
+17,Tjing Tjing Rooftop Bar,253,Cocktail Bar,-33.92235980952539,18.418772457439854,4d8097c58edaa1439257f139,City Bowl,87,Restaurant
+18,The Cousins Trattoria,331,Italian Restaurant,-33.926677235428954,18.421202509838977,51379f99e4b04f7260ce8840,City Bowl,29,Restaurant
+19,House Of Machines,275,Café,-33.92161560058594,18.419389724731445,521898c511d265d4f79bf211,City Bowl,107,Restaurant
+20,The Poké Co.,299,Sushi Restaurant,-33.921862,18.418624,5accea19bed4835eb87c3041,City Bowl,8,Restaurant
+22,The Village Idiot,453,Gastropub,-33.91963019785271,18.421090721074922,555f5e28498ea0e938a87696,City Bowl,108,Restaurant
+24,Truth Coffee HQ,536,Café,-33.92828568736539,18.4227945872331,4fa0c477e4b0c33ec64258bf,City Bowl,616,Restaurant
+26,Bean There Coffee Roastery,373,Coffee Shop,-33.92283515899491,18.417093237284835,4e49354eae60fa723316be60,City Bowl,45,Restaurant
+29,openwine,455,Wine Bar,-33.922128,18.416443,57d97be6498e4f64864d4d99,City Bowl,10,Restaurant
+31,Masala Dosa,379,Indian Restaurant,-33.92437800442552,18.416960207400003,4c6280be4be3b713ef6edce8,City Bowl,23,Restaurant
+33,Grub & Vine,356,Restaurant,-33.92139,18.41833,5bbe012951950e002c26ff58,City Bowl,4,Restaurant
+34,Headquarters,465,Steakhouse,-33.920419243555834,18.417882249456348,4cf68a9a0a71224bc99b1e93,City Bowl,55,Restaurant
+36,Giulios,534,Café,-33.918959,18.421861,56273b5a498ecd4ca37c123d,City Bowl,26,Restaurant
+39,Charango,396,Restaurant,-33.92200831754915,18.41721519269555,55956ea8498eb48bebf7f563,City Bowl,31,Restaurant
+40,Bocca,427,Italian Restaurant,-33.922334,18.416673,54524d47498efb7913d525c0,City Bowl,63,Restaurant
+41,Villa 47,502,Italian Restaurant,-33.91922566759333,18.420307027825377,56f432f6498e1dd7c13576ce,City Bowl,68,Restaurant
+43,Hemelhuijs,583,Café,-33.918540387172335,18.419910904186317,4cc07273575d236a34b7c48e,City Bowl,120,Restaurant
+44,Lola's Café,607,Café,-33.926067281776994,18.415058766227723,4b586bc7f964a520f85628e3,City Bowl,84,Restaurant
+45,BEERHOUSE,491,Gastropub,-33.925399,18.416083,50c897e7e4b0cd965f396404,City Bowl,278,Restaurant
+46,Royale Eatery,639,Burger Joint,-33.926424995293054,18.414893746376038,4b5b0a2ef964a5204ee028e3,City Bowl,191,Restaurant
+48,Kamili Coffee,579,Café,-33.9281946457506,18.424161378704827,5815c9ba38faca7f0edac13e,City Bowl,7,Restaurant
+49,Folk Coffee Anthropology,696,Coffee Shop,-33.91753472270826,18.422234815093752,56a92621498ec39c6d1af9f9,City Bowl,17,Restaurant
+51,169 Long Street,526,Hookah Bar,-33.92550201883122,18.41572433527407,4eff47ac0aaffcf6f3ea1a90,City Bowl,6,Restaurant
+52,Lefty's,650,BBQ Joint,-33.92932934700474,18.422901665223577,528facac498e0501256c6c95,City Bowl,54,Restaurant
+53,Origin Coffee Roasting,791,Coffee Shop,-33.91716850036462,18.417625794294572,4b66dc61f964a520bf2d2be3,City Bowl,261,Restaurant
+54,Batavia,594,Café,-33.920753,18.415625,569cc72a498ef7c41842e4f4,City Bowl,8,Restaurant
+56,The General Store,607,Café,-33.918252507310086,18.42131374992924,5608ed91498e663eb282f805,City Bowl,5,Restaurant
+58,Loading Bay,780,Restaurant,-33.91731728366644,18.417514705527676,4b5ae1b9f964a5209fd828e3,City Bowl,75,Restaurant
+59,Bacon on Bree,720,Breakfast Spot,-33.92551572015049,18.41349967216239,55389934498e67b884f39cf2,City Bowl,34,Restaurant
+60,San Julian Taco & Tequila,668,Mexican Restaurant,-33.91801746757688,18.41866140919453,4c1a77d7624b9c74ab6e1204,City Bowl,26,Restaurant
+62,Active Sushi,772,Sushi Restaurant,-33.91740824798725,18.4174869406985,559c4dee498ee5bd5a9efe16,City Bowl,21,Restaurant
+63,The Odyssey,648,Gastropub,-33.92491677354826,18.41413055432759,51a60085498eabc8e6518c7c,City Bowl,33,Restaurant
+66,Atlas Trading,579,Food & Drink Shop,-33.921432063385176,18.415350358640882,4d25c78bbcc1224b43bf931b,City Bowl,7,Restaurant
+69,"Seattle Coffee, The Towers",779,Coffee Shop,-33.919565151029474,18.42779236125447,565d37ef498e7ec1b1844dd8,City Bowl,8,Restaurant
+70,Lindt Chocolate Studio,870,Dessert Shop,-33.91635811808607,18.4177782882725,4d6257e85b276dcbe6332ec6,City Bowl,12,Restaurant
+71,Harvest Cafe,614,Café,-33.921241,18.415036,5a17b67ac9f9072c9ad13574,City Bowl,13,Restaurant
+73,The Station on Bree,693,Cocktail Bar,-33.925319,18.413736,583873cef229952c8deb00e2,City Bowl,11,Restaurant
+76,Sea Breeze,706,Seafood Restaurant,-33.92534801566513,18.413609372346354,594e4669c4df1d7f6c47400d,City Bowl,18,Restaurant
+78,Roxy's Café,969,Pub,-33.931779428525026,18.41706455105335,4d31e8a1f8c9224b88baabd2,City Bowl,41,Restaurant
+79,GROUND art caffe,820,Café,-33.917184519560436,18.41686286724883,580dc038d67c5d1952d9ba29,City Bowl,7,Restaurant
+80,Molten Toffee,984,Café,-33.928605951557095,18.41212333031075,544a7302498e92c459bb4a90,City Bowl,35,Restaurant
+81,The Yard,976,Burger Joint,-33.93235763040626,18.41924021763723,5049decbd63eaea07a7701d2,City Bowl,133,Restaurant
+83,Sababa Kitchen and Deli,774,Deli / Bodega,-33.92591032311136,18.413039656082926,4e785de7ae60e5ae00352787,City Bowl,10,Restaurant
+86,Haas,480,Coffee Shop,-33.92716344914026,18.42410703046114,5413fdb0498eec6ac4762769,City Bowl,38,Restaurant
+87,Mustacchio Caffe,798,Restaurant,-33.92714162782837,18.413407802581787,57a779dd498e1c2e47e9a43d,City Bowl,22,Restaurant
+91,La Petite Tarte,898,Café,-33.916158848541635,18.417538629557846,4b4b20f1f964a520c39226e3,City Bowl,38,Restaurant
+93,Societi Bistro,946,French Restaurant,-33.92905575502097,18.413027816709768,4bba27f23db7b713cbf8229a,City Bowl,79,Restaurant
+97,Harringtons,590,Bar,-33.92836390267279,18.424041823326455,57f79a87498e97194953e8c5,City Bowl,10,Restaurant
+98,Minato,573,Sushi Restaurant,-33.9257409103586,18.415285322788296,4bc4db9af8219c74ecfeb710,City Bowl,4,Restaurant
+3,Cabrito,287,Bar,-33.90831531811706,18.410981944139607,520bc1a011d235a4fadfa1ac,Atlantic Seaboard,31,Restaurant
+4,Big Route Gourmet Pizzeria,247,Pizza Place,-33.90777064392352,18.409355365419817,500ec06be4b0bfdb6d36afd4,Atlantic Seaboard,50,Restaurant
+5,Rocomamas,244,Burger Joint,-33.90775618003158,18.40918560395864,4bae48b1f964a5201d9d3be3,Atlantic Seaboard,49,Restaurant
+6,El Burro,281,Mexican Restaurant,-33.90839898887066,18.41097445637066,4d0a3452454c6dcbd26e3d8e,Atlantic Seaboard,144,Restaurant
+7,UpperBloem,333,Restaurant,-33.908406,18.411643,5b11ac0467f62b002c41022c,Atlantic Seaboard,6,Restaurant
+9,nü,427,Juice Bar,-33.90901010449515,18.41301459647644,5412b432498eac1f78dbfcaf,Atlantic Seaboard,25,Restaurant
+13,"Sky Bar, Cape Royale",325,Cocktail Bar,-33.909185562008865,18.411927726072136,4b93afb6f964a520f54c34e3,Atlantic Seaboard,21,Restaurant
+16,Hudsons on Somerset,396,Burger Joint,-33.90905242086595,18.412678374192065,4ce6b7760f196dcb1d5f39ae,Atlantic Seaboard,134,Restaurant
+22,Vida e Caffè,431,Coffee Shop,-33.90907535559835,18.413077327151708,4bf476342d62952104206058,Atlantic Seaboard,26,Restaurant
+23,Shift Espresso Bar,362,Coffee Shop,-33.9087686348349,18.41218890327141,53aeb057498e7b9f40cde779,Atlantic Seaboard,34,Restaurant
+25,Pigalle,844,Seafood Restaurant,-33.913161220900925,18.4167439564029,4bc0aaf8abf495217098bf93,Atlantic Seaboard,111,Restaurant
+27,Grand Cafe and Beach,578,Café,-33.90553,18.41194,4be254e22fc7d13a6d5e083a,Atlantic Seaboard,186,Restaurant
+28,Mano's,435,Gastropub,-33.909412097053725,18.41318766918164,4b62dec0f964a52087562ae3,Atlantic Seaboard,25,Restaurant
+32,Cooked,947,Coffee Shop,-33.907122797849084,18.41820533520213,566da475498ed2e93de35c6c,Atlantic Seaboard,19,Restaurant
+39,Village Café,971,Breakfast Spot,-33.9154162518468,18.416634829715253,4ba5d64af964a520fb2439e3,Atlantic Seaboard,20,Restaurant
+40,Brew,321,Coffee Shop,-33.90864760240377,18.411647197187428,51dfc3b4498e5c0fc354cdbb,Atlantic Seaboard,5,Restaurant
+41,Best Of Asia,249,Sushi Restaurant,-33.90779360842176,18.409500377132332,4f802e61e4b0bf6cc926c85f,Atlantic Seaboard,10,Restaurant
+43,Vista Bar - The One&Only Cape Town,738,Hotel Bar,-33.908906174034726,18.416411431018616,4de12a1b8877aab7fe5c99c6,Atlantic Seaboard,10,Restaurant
+49,Nobu - The One&Only Cape Town,742,Japanese Restaurant,-33.90887790725557,18.416446437303854,4b72f54ff964a5202d922de3,Atlantic Seaboard,91,Restaurant
+50,Beluga,950,Sushi Restaurant,-33.91243967919306,18.418321047644554,4bdd96b339b4c9288c681193,Atlantic Seaboard,234,Restaurant
+51,Sloppy Sam,870,Mediterranean Restaurant,-33.913184179999995,18.417037,4b6c4970f964a520f22d2ce3,Atlantic Seaboard,7,Restaurant
+53,Vista Marina,907,Mediterranean Restaurant,-33.908045,18.418071,58b7fface9efba3ce673ff4b,Atlantic Seaboard,8,Restaurant
+57,Marios,285,Restaurant,-33.908188187713975,18.41082427787595,4cd59c3276ab721e8f346e6a,Atlantic Seaboard,2,Restaurant
+58,Cafe Extrablatt,299,Café,-33.908380691796275,18.41119741939031,4e8c82ba93adecfdb96c7047,Atlantic Seaboard,41,Restaurant
+59,Bo-kaap Kombuis,945,Restaurant,-33.91754754196031,18.41290115837862,4d14ed8a8312236a54774eba,Atlantic Seaboard,22,Restaurant
+62,Table Thirteen,896,Restaurant,-33.91254117456231,18.41765820350372,4b878014f964a52021c131e3,Atlantic Seaboard,10,Restaurant
+64,Bootlegger Coffee Company,451,Coffee Shop,-33.909503961773105,18.413368811299573,59ef4d0f92e7a94da77d450f,Atlantic Seaboard,13,Restaurant
+65,Vida e Caffe Prestwich Street,963,Coffee Shop,-33.91287069130057,18.418289990305126,4fa8abffe4b08ab44fa539d8,Atlantic Seaboard,6,Restaurant
+74,Shoreline Cafe @ Two Oceans Aquarium,898,Café,-33.90812704951602,18.41800028199086,4bbdb1e7a8cf76b09607b2fd,Atlantic Seaboard,4,Restaurant
+77,Kauai : Point Virgin Active,627,Juice Bar,-33.906501436941326,18.403065593323273,4d91ed829acaa143879ef2f0,Atlantic Seaboard,3,Restaurant
+2,Tomahawk Spur,732,Steakhouse,-33.91250095793893,18.545507736215992,4d8b8e627139b1f74eb3e2d4,Goodwood,1,Restaurant
+6,Debonairs  Pizza,638,Pizza Place,-33.912401308406984,18.549417930413483,4ddd415322713339cd28b719,Goodwood,2,Restaurant
+8,Simply Asia,746,Thai Restaurant,-33.91263981265898,18.54548454646108,4de8ae1d1f6e9b5377122333,Goodwood,0,Restaurant
+2,Greenfields Pub,609,Pub,-33.88117592304591,18.70619773864746,4ce1bf353644a09300bf5e9f,Brackenfell,0,Restaurant
+0,The Lighthouse Cafe,175,Café,-34.193163993654586,18.43135689901424,514d8bffe4b091940a1725ea,Simons Town,57,Restaurant
+1,Monocle & Mermaid,21,Café,-34.193270586211405,18.433466871660144,545e3eca498e7ab0f02e0435,Simons Town,18,Restaurant
+2,The Sweetest Thing,249,Café,-34.19317047351982,18.430551826674225,4bbb4de63db7b713a626249a,Simons Town,9,Restaurant
+3,Saveur Restaurant,85,Seafood Restaurant,-34.19291152621334,18.432391332695282,54ad0e2b498ed6d6c86153cc,Simons Town,23,Restaurant
+4,The Meeting Place,116,Café,-34.19325413010905,18.43200765819856,4baf22c5f964a52011ed3be3,Simons Town,11,Restaurant
+6,The 2'6 Pence,201,Pub,-34.193157182109694,18.431073556333466,4d190352816af04d793e5ac2,Simons Town,5,Restaurant
+7,Salty Sea Dog,83,Seafood Restaurant,-34.19290297025501,18.432423161256683,4c5ff05190b2c9b6d2883b22,Simons Town,24,Restaurant
+9,Cafe Pescado,40,Italian Restaurant,-34.1934707511544,18.432994118030347,4ba3b8d7f964a5204b5838e3,Simons Town,10,Restaurant
+10,Quarterdeck Restaurant,40,Café,-34.19293419990403,18.433595773445433,4c4c26e2f7cc1b8dc692e540,Simons Town,10,Restaurant
+11,The HarbourView Coffee Shop,87,Coffee Shop,-34.19302131399117,18.432333091972755,4d19e19d85fc6dcb50dec04e,Simons Town,9,Restaurant
+13,Fran’s Place,37,Restaurant,-34.192941,18.43355,5b1148efc876c80039b244cb,Simons Town,4,Restaurant
+1,Hout Bay Coffee,309,Coffee Shop,-34.04295135647409,18.358995973031814,54bcf32a498e5ac87c42eb86,Hout Bay,15,Restaurant
+2,Cheyne's,427,Mediterranean Restaurant,-34.04446461706228,18.359975213155252,517fff56e4b085cc8e56e30b,Hout Bay,19,Restaurant
+6,Dunes,374,Seafood Restaurant,-34.045606579953535,18.358335754108964,4b9ba93df964a520c31736e3,Hout Bay,70,Restaurant
+7,Hout Bay Manor,469,Hotel Bar,-34.043131309400664,18.36073427108847,4b9cc27cf964a520337a36e3,Hout Bay,4,Restaurant
+8,Posticino Ristorante Hout Bay,696,Italian Restaurant,-34.0466336096008,18.361875758350227,52a8c1ef11d25bb03486a1f8,Hout Bay,8,Restaurant
+9,Dario's,454,Italian Restaurant,-34.04351904415244,18.35073936915457,4b63e77ef964a52075962ae3,Hout Bay,13,Restaurant
+10,Pakalolo,701,Restaurant,-34.046470126431586,18.362060332083125,4b9246aaf964a52086ef33e3,Hout Bay,13,Restaurant
+11,Casareccio,616,Italian Restaurant,-34.04585538508249,18.361440740525723,4b633d3ef964a520cb6c2ae3,Hout Bay,12,Restaurant
+12,The Wharfside Grill,819,Seafood Restaurant,-34.0474072683435,18.348444593821945,4d0cbcaa8010548114331a96,Hout Bay,23,Restaurant
+13,Trattoria Luigi,334,Italian Restaurant,-34.043694,18.359197,4b8e98caf964a520e92a33e3,Hout Bay,1,Restaurant
+15,Ragafellows,334,Steakhouse,-34.043785395112096,18.35916980243097,52b33531498eaff70f1be607,Hout Bay,3,Restaurant
+16,Deli Delish,507,Deli / Bodega,-34.04559709869473,18.360247630701114,4b66cf2ff964a520ac2b2be3,Hout Bay,4,Restaurant
+20,Ocean basket,559,Seafood Restaurant,-34.04430814665536,18.349759967224983,4d0a4c7c5edd5481e7e3049b,Hout Bay,0,Restaurant
+22,Ocean Basket,577,Seafood Restaurant,-34.04532731806308,18.361290528348402,4c696d0e0e98a59303632459,Hout Bay,0,Restaurant
+23,Bugatti's Trattoria,554,Pizza Place,-34.04078137019706,18.350322000452415,50afa5aee4b00a661c335a62,Hout Bay,7,Restaurant
+24,Ta-Da Creperie & Coffee Bar,513,Coffee Shop,-34.04185813915021,18.35028144132193,5076767fe4b0d316330e9649,Hout Bay,6,Restaurant
+26,W Café,173,Café,-34.04290189430646,18.357506838202205,500c0a9ae4b098bae33d1366,Hout Bay,0,Restaurant
+27,Seafood Bistro,827,Seafood Restaurant,-34.047415,18.348345,4d87363d02eb5481ec9765f5,Hout Bay,3,Restaurant
+28,Woodcutters Arms,332,Pub,-34.043229486420074,18.359246557684504,51a0f365498ee67d837d21c5,Hout Bay,5,Restaurant
+30,La Cabane,444,Restaurant,-34.045,18.359878,4da170677ccc816e54fa527b,Hout Bay,0,Restaurant
+31,The Workshop,539,Pub,-34.044895,18.361079,4b641deaf964a520d39f2ae3,Hout Bay,1,Restaurant
+32,The Vine,576,Coffee Shop,-34.045528,18.361156,5abe3b0a8c812a75b8ec79ac,Hout Bay,2,Restaurant
+33,Vida E Caffè,647,Coffee Shop,-34.04683046218402,18.361017003883646,4ed87e12d3e346be320033ad,Hout Bay,4,Restaurant
+36,Muriel's munchies,904,Seafood Restaurant,-34.04808754786446,18.347905843684472,4de8e558227148fcea3a6010,Hout Bay,3,Restaurant
+7,Big Route Gourmet Pizzeria,500,Pizza Place,-33.90777064392352,18.409355365419817,500ec06be4b0bfdb6d36afd4,Green Point,50,Restaurant
+8,Rocomamas,489,Burger Joint,-33.90775618003158,18.40918560395864,4bae48b1f964a5201d9d3be3,Green Point,49,Restaurant
+9,Cabrito,647,Bar,-33.90831531811706,18.410981944139607,520bc1a011d235a4fadfa1ac,Green Point,31,Restaurant
+10,The Hussar Grill,666,Steakhouse,-33.9040106465762,18.398758440541393,5676faab498e7758023b13ef,Green Point,63,Restaurant
+11,El Burro,653,Mexican Restaurant,-33.90839898887066,18.41097445637066,4d0a3452454c6dcbd26e3d8e,Green Point,144,Restaurant
+12,UpperBloem,698,Restaurant,-33.908406,18.411643,5b11ac0467f62b002c41022c,Green Point,6,Restaurant
+15,Grand Cafe and Beach,569,Café,-33.90553,18.41194,4be254e22fc7d13a6d5e083a,Green Point,186,Restaurant
+16,nü,838,Juice Bar,-33.90901010449515,18.41301459647644,5412b432498eac1f78dbfcaf,Green Point,25,Restaurant
+23,Sotano,606,Mediterranean Restaurant,-33.89988327026367,18.40989112854004,4cdec33ddf986ea8d1cddd16,Green Point,72,Restaurant
+28,Wafu,457,Sushi Restaurant,-33.90018276210156,18.405283014685427,4b688a10f964a520a67e2be3,Green Point,6,Restaurant
+30,The Butcher Shop & Grill,594,Steakhouse,-33.90167945471926,18.400334491967726,53f8e123498ea90065a156b5,Green Point,58,Restaurant
+31,"Sky Bar, Cape Royale",777,Cocktail Bar,-33.909185562008865,18.411927726072136,4b93afb6f964a520f54c34e3,Green Point,21,Restaurant
+33,Hudsons on Somerset,818,Burger Joint,-33.90905242086595,18.412678374192065,4ce6b7760f196dcb1d5f39ae,Green Point,134,Restaurant
+35,Lily's,466,Restaurant,-33.90009085628469,18.40543709594985,5934345962420b11b88938b6,Green Point,23,Restaurant
+37,Shift Espresso Bar,763,Coffee Shop,-33.9087686348349,18.41218890327141,53aeb057498e7b9f40cde779,Green Point,34,Restaurant
+38,Vida e Caffè,847,Coffee Shop,-33.90907535559835,18.413077327151708,4bf476342d62952104206058,Green Point,26,Restaurant
+39,Pepeneros,461,Italian Restaurant,-33.90012661651019,18.405541411480304,4cbdd5374495721eadb6617a,Green Point,45,Restaurant
+43,Mano's,879,Gastropub,-33.909412097053725,18.41318766918164,4b62dec0f964a52087562ae3,Green Point,25,Restaurant
+44,Best Of Asia,511,Sushi Restaurant,-33.90779360842176,18.409500377132332,4f802e61e4b0bf6cc926c85f,Green Point,10,Restaurant
+45,Brew,717,Coffee Shop,-33.90864760240377,18.411647197187428,51dfc3b4498e5c0fc354cdbb,Green Point,5,Restaurant
+48,Buzbey Grill,893,Steakhouse,-33.908027,18.397432,4bf6bd984a67c9287f5422cf,Green Point,3,Restaurant
+49,Caffe Neo,614,Café,-33.90176616761468,18.400029494142228,4b4c4936f964a52082b026e3,Green Point,34,Restaurant
+51,Newport Deli,572,Sandwich Place,-33.90190553604957,18.400456244311137,4ba60cb1f964a520353039e3,Green Point,9,Restaurant
+52,Richard's Bistro,930,Breakfast Spot,-33.90840567906738,18.397223216353655,4f5c79d7e4b0d8f7b6f847fe,Green Point,9,Restaurant
+53,Marios,626,Restaurant,-33.908188187713975,18.41082427787595,4cd59c3276ab721e8f346e6a,Green Point,2,Restaurant
+55,Cafe Extrablatt,666,Café,-33.908380691796275,18.41119741939031,4e8c82ba93adecfdb96c7047,Green Point,41,Restaurant
+56,Xiang Yuan Chinese & Sushi.,965,Sushi Restaurant,-33.90861785595024,18.39693105351711,4d1f60025c4ca1cdc3d7983d,Green Point,6,Restaurant
+57,Bootlegger Coffee Company,899,Coffee Shop,-33.909503961773105,18.413368811299573,59ef4d0f92e7a94da77d450f,Green Point,13,Restaurant
+59,Aldiwan | الديوان (Aldiwan),992,Café,-33.90873921144157,18.39668371940371,4d3c6b0a3ec9a35d046a4881,Green Point,9,Restaurant
+66,Cape to India,630,Indian Restaurant,-33.90161424397123,18.399935272134947,4db311290437fa536a0b4294,Green Point,0,Restaurant
+0,Jonkershuis Restaurant,409,Restaurant,-34.03071406873821,18.41894095683067,4b76fcdbf964a520cb712ee3,Constantia,68,Restaurant
+3,"Simon's, Groot Constantia",371,French Restaurant,-34.03120357482775,18.417613065669027,4c4b3e985609c9b6814edf90,Constantia,37,Restaurant
+0,Saratoga Spur,292,Breakfast Spot,-33.90485846156931,18.588347575011024,4e09f6ceaeb74c399121300d,Parow,3,Restaurant
+7,Harlequin Restaurant,795,Italian Restaurant,-33.904106861855865,18.59532859200735,4c2a54338ef52d7fbbb32fba,Parow,3,Restaurant
+1,D's Speakeasy,957,Pub,-33.83209368358392,18.646245724366526,4f0d6c0de4b01660dc7720d1,Durbanville,17,Restaurant
+2,Silver Creek Spur,866,Breakfast Spot,-33.83266883428387,18.6474581940829,4c45cc57f799e21eaab0afa2,Durbanville,9,Restaurant
+3,Slug And Lettuce,869,Steakhouse,-33.83292198978405,18.646268665951144,5256f5a211d2857ca3662556,Durbanville,19,Restaurant
+5,Mugg & Bean,752,Coffee Shop,-33.8336878,18.6476441,4c7e2c3fd461a143ae2d7ff5,Durbanville,6,Restaurant
+8,Simply Asia Durbanville,939,Thai Restaurant,-33.83230550518704,18.646108200688076,4dde780688779c82bec4fbe6,Durbanville,7,Restaurant
+9,RocoMamas,701,Burger Joint,-33.83405,18.64829,5762d3ec498ef7dda7bc5de5,Durbanville,4,Restaurant
+10,Roman's Pizza,907,Pizza Place,-33.832498,18.646523,4b9e7349f964a520ece436e3,Durbanville,2,Restaurant
+0,Lorenzo Marx,674,Coffee Shop,-34.09420320453125,18.490519583454553,4ffd3826e4b07c449d5a533f,Muizenberg,8,Restaurant
+3,Upper Crust Pizzeria,728,Pizza Place,-34.09292170397636,18.479423104938363,4ca0d82203133704ca777ed5,Muizenberg,7,Restaurant
+0,Fish Hoek Fisheries,691,Seafood Restaurant,-34.13626448054778,18.432016968727112,4c4f15abdb2c20a15b4d7875,Fish Hoek,9,Restaurant
+2,Bhandaris,538,Indian Restaurant,-34.14038928605399,18.429946303367615,4d04555890762d43989ff18a,Fish Hoek,7,Restaurant
+3,Beachcomber Bistro,735,Seafood Restaurant,-34.14079131124154,18.43210151537895,4d045c1f90762d439ca5f18a,Fish Hoek,5,Restaurant
+4,The Galley Restaurant,736,Seafood Restaurant,-34.14096809004105,18.432001067416216,4cfbaf1f41eca090d392d650,Fish Hoek,15,Restaurant
+6,Golden River Spur,625,Breakfast Spot,-34.13833865026225,18.43161100231141,4d276f13d86aa090140b1ec0,Fish Hoek,8,Restaurant
+10,Steers,603,Burger Joint,-34.1382795,18.4313687,4c8206028ce59c74124277b0,Fish Hoek,5,Restaurant
+11,The Victorian Times,530,Pub,-34.1405372241974,18.429747093640053,4c2dfef6e307d13a8db50eda,Fish Hoek,4,Restaurant
+0,Mike's Kitchen,239,Steakhouse,-33.87908356722952,18.498939156201306,4cde713370bba1cd2a5160c4,Milnerton,15,Restaurant
+4,Maestro's On The Beach,861,Italian Restaurant,-33.880785605897174,18.48721203182492,4b5197dff964a5204a5027e3,Milnerton,64,Restaurant
+5,Ilha Restaurant and Bar,854,Bar,-33.88176657831188,18.487576962907262,4cfa508d7945224b273c7fe7,Milnerton,9,Restaurant
+9,St Elmo's,227,Pizza Place,-33.87929069363612,18.498847220926315,4d8e2cc93bfef04da8249286,Milnerton,0,Restaurant
+1,Caffé Verdi,522,Bar,-34.0068535637128,18.463146324434174,4c49ae9920ab1b8dcc081b17,Wynberg,13,Restaurant
+2,Four and Twenty Cafe,504,Café,-34.00678605841462,18.463326452769397,5184d993498e26edec1cba6f,Wynberg,50,Restaurant
+3,Erawan Thai Restaurant & Bar,522,Thai Restaurant,-34.00695946987995,18.46325879446437,4f1c38b3e4b0c74ef2a7e7cf,Wynberg,14,Restaurant
+4,Borusso's,912,Pizza Place,-33.99552605470877,18.468744110769986,4b43b6daf964a52061e725e3,Wynberg,21,Restaurant
+5,Bootlegger Coffee Company,856,Coffee Shop,-33.99604277171098,18.468850326813346,558bdf32498e9eae96599488,Wynberg,38,Restaurant
+6,Bibi's Kitchen,711,Indian Restaurant,-34.00419682928632,18.4749309609382,4b929311f964a520bb0534e3,Wynberg,4,Restaurant
+7,Jakes on Summerley,920,Gastropub,-33.99553438689696,18.469318973060627,4c1e0119fcf8c9b60d97ac0b,Wynberg,12,Restaurant
+9,Penny Lane Coffee Shop,155,Coffee Shop,-34.00401188720162,18.46887390369375,4ef0c8b08b81e3067f97f720,Wynberg,2,Restaurant
+15,Wild Bean Cafe,904,Café,-34.00207357,18.476877,4ded0025d164bd989b1ad5da,Wynberg,0,Restaurant
+16,Eat Out The Box,973,Pizza Place,-34.01148928008831,18.462643069790534,4d52dfd8e0275481225fb9b6,Wynberg,1,Restaurant
+2,Ocean Basket Glengarry Shopping Centre,738,Seafood Restaurant,-33.84909,18.67419,4e479d6daeb70e74f4a45ba3,Kuils River,0,Restaurant
+5,Caffe Rossini,842,Café,-33.844047,18.677177,4d4e6705a0b0a093e0844d83,Kuils River,2,Restaurant
