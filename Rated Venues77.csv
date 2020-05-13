@@ -1,0 +1,463 @@
+,Name,Categories,Distance,Latitude,Longitude,Id,Neighborhood,Likes,Rating
+0,Orms Pro Photo Warehouse North,Electronics Store,161,-33.88237507673728,18.63626648785036,4c9757097605199caf20c8a3,Bellville,8,No Rating Yet
+1,Limnos Bakery,Bakery,178,-33.88292471301843,18.635199240909177,4ba85f7bf964a52079d839e3,Bellville,11,No Rating Yet
+2,Vida E Caffè,Café,424,-33.8800206224521,18.635831571104212,53884c6d498e39acdc8e2ea0,Bellville,13,No Rating Yet
+3,M-Kem,Pharmacy,531,-33.88830814540221,18.635206236908818,4ba20672f964a520ffd637e3,Bellville,34,No Rating Yet
+4,Yuz Sushi,Sushi Restaurant,420,-33.880080355807856,18.635715593392188,4dc19693b0fb1c18ee67094d,Bellville,8,No Rating Yet
+5,Virgin Active Health Club,Gym,800,-33.87719041759904,18.63327861060014,4c41a7cb3735be9a23b218a4,Bellville,44,No Rating Yet
+6,Woolworths,Department Store,937,-33.87543188038071,18.635184907982236,4c7e63d1b53db1f7b1ce9f11,Bellville,39,No Rating Yet
+7,Cattle Baron Grill House,Steakhouse,736,-33.87873,18.63165,4daf12894df0f639f2595242,Bellville,20,No Rating Yet
+8,Yummy zone,Sushi Restaurant,823,-33.87633671030918,18.63694505787748,4f47cbeae4b0683d4ec88271,Bellville,7,No Rating Yet
+9,Copper Club Eatery,Burger Joint,996,-33.876739501953125,18.6301326751709,564dfed8498ee48b0efd5236,Bellville,5,No Rating Yet
+10,Cantina Tequila,Mexican Restaurant,249,-33.881891972374646,18.635338154427853,4f9bb9cfe4b0b045845a4892,Bellville,9,No Rating Yet
+11,Spar,Grocery Store,817,-33.8763890573547,18.63689856777257,4d74b8b19a296ea826f958a9,Bellville,5,No Rating Yet
+12,Nando's,Portuguese Restaurant,377,-33.88044331,18.6358673,4c443536dd1f2d7f94777ff9,Bellville,10,No Rating Yet
+13,Stones,Bar,356,-33.88067423375431,18.635746975609592,4d500e72abb4594169deb718,Bellville,3,No Rating Yet
+14,Starlight Diner,Diner,434,-33.8829867037818,18.632254300055862,4c3701162c8020a160318800,Bellville,19,No Rating Yet
+15,Buckleys Pub and Foosball Bar,Bar,229,-33.88204412884141,18.63544355459686,4bf2c0cc55c7c9b6bb736204,Bellville,9,No Rating Yet
+16,Danskraal,Nightclub,780,-33.88937445136622,18.631852269172672,4c2658c83703d13a7f3aa536,Bellville,6,No Rating Yet
+17,KFC,Fast Food Restaurant,139,-33.882901165544986,18.63574276080288,4c4f05d6fb742d7f5343432f,Bellville,4,No Rating Yet
+18,Vesuvio Pizzaria,Pizza Place,929,-33.87758222078489,18.630070122624964,4eea3dc80aafda6d14e95d11,Bellville,9,No Rating Yet
+19,Buena Vista Social Cafe,Cuban Restaurant,775,-33.88115810898157,18.62907886505127,4c990ed807916dcb0780f11b,Bellville,3,No Rating Yet
+20,Live Mart,Asian Restaurant,421,-33.880012175929075,18.636011336630194,4d318d8c2c76a143ca9d66c7,Bellville,2,No Rating Yet
+21,Deeghuys,Bakery,724,-33.888883089720984,18.632073911868595,51a9d161498e5d7766af448a,Bellville,5,No Rating Yet
+22,Sasol Oaks Service Station,Gas Station,887,-33.89066009,18.63211119,4e3059fcc65b80dfd84a37f2,Bellville,1,No Rating Yet
+23,Kamili Coffee,Coffee Shop,217,-33.922034000000004,18.41977,53ca29bb498e3cb77a910554,City Bowl,74,No Rating Yet
+24,Fork Restaurant,Tapas Restaurant,219,-33.92233666328434,18.41928576141392,4b52225cf964a5208e6a27e3,City Bowl,96,No Rating Yet
+25,Bombay Brasserie,Indian Restaurant,162,-33.92476688168477,18.41978583783833,4baa769ff964a5207d6c3ae3,City Bowl,35,No Rating Yet
+26,Aces 'n Spades,Bar,273,-33.92138527642458,18.42000551633646,502e9348e4b047efecff0430,City Bowl,121,No Rating Yet
+27,City Hall,City Hall,305,-33.92518468373031,18.4237825895722,4b6b08e2f964a5202aee2be3,City Bowl,21,No Rating Yet
+28,Bread Milk & Honey,Café,206,-33.92551953577516,18.421444371745203,4b864d10f964a5203f8531e3,City Bowl,64,No Rating Yet
+29,The Gin Bar,Cocktail Bar,371,-33.92273288691907,18.417150034224644,54d63408498e31d1e8e09e57,City Bowl,132,No Rating Yet
+30,Addis in Cape,Ethiopian Restaurant,237,-33.92288952723883,18.41861984267377,4bc8a3538b7c9c74978f38cf,City Bowl,84,No Rating Yet
+31,Grand Daddy Hotel,Hotel,289,-33.92111949925801,18.42066498034945,4b83ea28f964a520771631e3,City Bowl,75,No Rating Yet
+32,Moro Gelato,Dessert Shop,360,-33.924214,18.41714,597ca4f5a6fe4d0dfc06d374,City Bowl,14,No Rating Yet
+33,Daddy cool,Bar,287,-33.921155,18.420494,4be0617898f2a593360cc25a,City Bowl,12,No Rating Yet
+34,Taj Cape Town,Hotel,160,-33.92447827742117,18.41952301924581,4d26a54b068e8cfac9efb24c,City Bowl,84,No Rating Yet
+35,Yourstruly,Coffee Shop,370,-33.924319433402374,18.417055746248256,4cd50dac8e5b6a317f1b74ac,City Bowl,62,No Rating Yet
+36,The Shortmarket Club,French Restaurant,343,-33.92131098622614,18.41865200787468,577801a2498ee32e9821b7ae,City Bowl,59,No Rating Yet
+37,Honest Chocolate Café,Café,370,-33.92273011702641,18.41715598581713,54955dc0498e505982e2a598,City Bowl,49,No Rating Yet
+38,Food Lover's Market,Restaurant,118,-33.92317129835544,18.41988525681402,50c98ac5e4b090de85b20bed,City Bowl,94,No Rating Yet
+39,91 Loop,Hostel,296,-33.922020394401216,18.418511166831728,57420daa498ec52815f93c68,City Bowl,24,No Rating Yet
+40,Tjing Tjing Rooftop Bar,Cocktail Bar,253,-33.92235980952539,18.41877245743985,4d8097c58edaa1439257f139,City Bowl,87,No Rating Yet
+41,The Cousins Trattoria,Italian Restaurant,331,-33.926677235428954,18.421202509838977,51379f99e4b04f7260ce8840,City Bowl,29,No Rating Yet
+42,House Of Machines,Café,275,-33.921615600585945,18.419389724731445,521898c511d265d4f79bf211,City Bowl,107,No Rating Yet
+43,The Poké Co.,Sushi Restaurant,299,-33.921862,18.418623999999998,5accea19bed4835eb87c3041,City Bowl,8,No Rating Yet
+44,Fugard Theatre,Theater,499,-33.92717880771957,18.424410697680713,4bcede8d29d4b7132923a9dc,City Bowl,86,No Rating Yet
+45,The Village Idiot,Gastropub,453,-33.91963019785271,18.421090721074922,555f5e28498ea0e938a87696,City Bowl,108,No Rating Yet
+46,Chef's Warehouse,Gourmet Shop,387,-33.92100804792549,18.418339600414374,4ccfdd336200b1f79f96d028,City Bowl,69,No Rating Yet
+47,Truth Coffee HQ,Café,536,-33.92828568736539,18.422794587233103,4fa0c477e4b0c33ec64258bf,City Bowl,615,No Rating Yet
+48,Caroline's Fine Wine Cellar,Wine Shop,363,-33.920482499461805,18.421647548675534,4f1415e1d5fb04999e8b0cb4,City Bowl,7,No Rating Yet
+49,Bean There Coffee Roastery,Coffee Shop,373,-33.92283515899491,18.41709323728484,4e49354eae60fa723316be60,City Bowl,45,No Rating Yet
+50,Cape Heritage Hotel Cape Town,Hotel,404,-33.920829,18.418326,4bc8e896762beee11eae3d38,City Bowl,16,No Rating Yet
+51,Grand Parade,Plaza,364,-33.92479551956173,18.42470985788517,4bd867c10b779c74f70d07a0,City Bowl,46,No Rating Yet
+52,openwine,Wine Bar,455,-33.922128,18.416443,57d97be6498e4f64864d4d99,City Bowl,10,No Rating Yet
+53,The Company's Garden,Park,488,-33.926615085360716,18.417030992890197,4b615fb6f964a52064112ae3,City Bowl,211,No Rating Yet
+54,Masala Dosa,Indian Restaurant,379,-33.92437800442552,18.416960207400006,4c6280be4be3b713ef6edce8,City Bowl,23,No Rating Yet
+55,New York Bagel,Bagel Shop,573,-33.92812216330304,18.424187362388423,54350aca498e511cba960528,City Bowl,39,No Rating Yet
+56,Grub & Vine,Restaurant,356,-33.92139,18.418329999999997,5bbe012951950e002c26ff58,City Bowl,4,No Rating Yet
+57,Headquarters,Steakhouse,465,-33.920419243555834,18.417882249456348,4cf68a9a0a71224bc99b1e93,City Bowl,55,No Rating Yet
+58,Oumeul Bakkery,Bakery,485,-33.91949158050347,18.42235109522021,5048698de4b0e55a96415624,City Bowl,46,No Rating Yet
+59,Giulios,Café,534,-33.918959,18.421861,56273b5a498ecd4ca37c123d,City Bowl,26,No Rating Yet
+60,Jason Bakery,Bakery,611,-33.92453842563379,18.414449223651683,4d9580ed454edcb39969b76a,City Bowl,181,No Rating Yet
+61,The Book Lounge,Bookstore,626,-33.92930614229909,18.42168843738291,4b9e4a4cf964a5209dd736e3,City Bowl,38,No Rating Yet
+62,Charango,Restaurant,396,-33.92200831754915,18.41721519269555,55956ea8498eb48bebf7f563,City Bowl,31,No Rating Yet
+63,Bocca,Italian Restaurant,427,-33.922334,18.416673,54524d47498efb7913d525c0,City Bowl,63,No Rating Yet
+64,Villa 47,Italian Restaurant,502,-33.919225667593324,18.420307027825373,56f432f6498e1dd7c13576ce,City Bowl,68,No Rating Yet
+65,Skinny laMinx,Furniture / Home Store,653,-33.924987260907464,18.414094448089603,502c9a5d067d5b50e0ba9eb8,City Bowl,39,No Rating Yet
+66,Hemelhuijs,Café,583,-33.91854038717233,18.41991090418632,4cc07273575d236a34b7c48e,City Bowl,120,No Rating Yet
+67,Lola's Café,Café,607,-33.926067281776994,18.415058766227727,4b586bc7f964a520f85628e3,City Bowl,84,No Rating Yet
+68,BEERHOUSE,Gastropub,491,-33.925399,18.416083,50c897e7e4b0cd965f396404,City Bowl,278,No Rating Yet
+69,Royale Eatery,Burger Joint,639,-33.92642499529305,18.41489374637604,4b5b0a2ef964a5204ee028e3,City Bowl,191,No Rating Yet
+70,Stayeasy,Hotel,470,-33.91953,18.4202,5997495e31ac6c1f3bc8ba3c,City Bowl,8,No Rating Yet
+71,Kamili Coffee,Café,579,-33.9281946457506,18.42416137870483,5815c9ba38faca7f0edac13e,City Bowl,7,No Rating Yet
+72,Folk Coffee Anthropology,Coffee Shop,696,-33.91753472270826,18.422234815093752,56a92621498ec39c6d1af9f9,City Bowl,17,No Rating Yet
+73,Hank's Olde Irish,Irish Pub,517,-33.922206545387446,18.41569228011148,56c89511498e4096144c4c14,City Bowl,8,No Rating Yet
+74,169 Long Street,Hookah Bar,526,-33.92550201883122,18.41572433527407,4eff47ac0aaffcf6f3ea1a90,City Bowl,6,No Rating Yet
+75,Lefty's,BBQ Joint,650,-33.92932934700474,18.422901665223574,528facac498e0501256c6c95,City Bowl,54,No Rating Yet
+76,Origin Coffee Roasting,Coffee Shop,791,-33.917168500364625,18.417625794294565,4b66dc61f964a520bf2d2be3,City Bowl,261,No Rating Yet
+77,Batavia,Café,594,-33.920753000000005,18.415625,569cc72a498ef7c41842e4f4,City Bowl,8,No Rating Yet
+78,South African National Art Gallery,Art Museum,686,-33.928928986628925,18.417033205657393,4b615e77f964a52043112ae3,City Bowl,41,No Rating Yet
+79,The General Store,Café,607,-33.91825250731009,18.421313749929237,5608ed91498e663eb282f805,City Bowl,5,No Rating Yet
+80,South African Jewish Museum,Museum,799,-33.930045526221825,18.41691624588754,4b657e01f964a52046f22ae3,City Bowl,12,No Rating Yet
+81,Loading Bay,Restaurant,780,-33.91731728366644,18.41751470552768,4b5ae1b9f964a5209fd828e3,City Bowl,75,No Rating Yet
+82,Bacon on Bree,Breakfast Spot,720,-33.92551572015049,18.41349967216239,55389934498e67b884f39cf2,City Bowl,34,No Rating Yet
+83,San Julian Taco & Tequila,Mexican Restaurant,668,-33.91801746757688,18.41866140919453,4c1a77d7624b9c74ab6e1204,City Bowl,26,No Rating Yet
+84,Artscape Theatre,Theater,896,-33.919537048903365,18.42929738145661,4b5342ebf964a520b69427e3,City Bowl,139,No Rating Yet
+85,Active Sushi,Sushi Restaurant,772,-33.917408247987254,18.4174869406985,559c4dee498ee5bd5a9efe16,City Bowl,21,No Rating Yet
+86,The Odyssey,Gastropub,648,-33.92491677354826,18.414130554327592,51a60085498eabc8e6518c7c,City Bowl,33,No Rating Yet
+87,Fiction,Nightclub,597,-33.92603811545564,18.41516371671867,4b2434daf964a520b46324e3,City Bowl,55,No Rating Yet
+88,"Food Lovers, The Towers",Food Court,780,-33.91945851147964,18.427718198510565,565c25fa498e1d3da85ed493,City Bowl,21,No Rating Yet
+89,Atlas Trading,Food & Drink Shop,579,-33.921432063385176,18.41535035864088,4d25c78bbcc1224b43bf931b,City Bowl,7,No Rating Yet
+90,Kloof Street House,African Restaurant,960,-33.92830450158452,18.412193932450087,54a88b5c498e72e47a96233f,City Bowl,340,No Rating Yet
+91,South China Dim Sum Bar,Dim Sum Restaurant,674,-33.92658573204059,18.414567688170095,4ef9a9de8b81ef98d295e1a7,City Bowl,32,No Rating Yet
+92,"Seattle Coffee, The Towers",Coffee Shop,779,-33.919565151029474,18.42779236125447,565d37ef498e7ec1b1844dd8,City Bowl,8,No Rating Yet
+93,Lindt Chocolate Studio,Dessert Shop,870,-33.91635811808607,18.4177782882725,4d6257e85b276dcbe6332ec6,City Bowl,12,No Rating Yet
+94,Harvest Cafe,Café,614,-33.921240999999995,18.415035999999997,5a17b67ac9f9072c9ad13574,City Bowl,13,No Rating Yet
+95,Unframed Ice Cream,Ice Cream Shop,995,-33.92868801576029,18.41204556956696,57a20081498ee7342127f5a5,City Bowl,29,No Rating Yet
+96,The Station on Bree,Cocktail Bar,693,-33.925319,18.413736,583873cef229952c8deb00e2,City Bowl,11,No Rating Yet
+97,Dias Tavern,Portuguese Restaurant,578,-33.927738688230065,18.42493760476187,4b72c7adf964a52041882de3,City Bowl,54,No Rating Yet
+98,African Pride 15 On Orange Hotel,Hotel,836,-33.928587,18.414108,4f1018fc00392d01a694e577,City Bowl,41,No Rating Yet
+99,Sea Breeze,Seafood Restaurant,706,-33.92534801566513,18.413609372346357,594e4669c4df1d7f6c47400d,City Bowl,18,No Rating Yet
+100,iziko South African Museum,Museum,761,-33.92865594887876,18.41529829304133,4f439830e4b0dc6d5d89dd2d,City Bowl,65,No Rating Yet
+101,Roxy's Café,Pub,969,-33.931779428525026,18.417064551053354,4d31e8a1f8c9224b88baabd2,City Bowl,41,No Rating Yet
+102,GROUND art caffe,Café,820,-33.91718451956044,18.416862867248827,580dc038d67c5d1952d9ba29,City Bowl,7,No Rating Yet
+103,Molten Toffee,Café,984,-33.92860595155709,18.41212333031075,544a7302498e92c459bb4a90,City Bowl,35,No Rating Yet
+104,The Yard,Burger Joint,976,-33.93235763040626,18.41924021763723,5049decbd63eaea07a7701d2,City Bowl,133,No Rating Yet
+105,Spar,Supermarket,966,-33.91537412,18.41805674,4bf7e2078d30d13a70a4ff17,City Bowl,79,No Rating Yet
+106,Sababa Kitchen and Deli,Deli / Bodega,774,-33.92591032311136,18.413039656082926,4e785de7ae60e5ae00352787,City Bowl,10,No Rating Yet
+107,Maria's,Greek Restaurant,945,-33.93144188292247,18.416776755493416,4d6cd9cf423d5481d8b3e5b1,City Bowl,41,No Rating Yet
+108,Southern Sun Cullinan,Hotel,977,-33.915510147083936,18.42479695191693,4b77a94ff964a520f8a52ee3,City Bowl,62,No Rating Yet
+109,Haas,Coffee Shop,480,-33.92716344914026,18.42410703046114,5413fdb0498eec6ac4762769,City Bowl,38,No Rating Yet
+110,Mustacchio Caffe,Restaurant,798,-33.92714162782837,18.41340780258179,57a779dd498e1c2e47e9a43d,City Bowl,22,No Rating Yet
+111,Cape CrossFit,Gym / Fitness Center,993,-33.93242626827049,18.418688531352554,4cc6bffc4935bfb792b0d1d8,City Bowl,9,No Rating Yet
+112,City Bowl Market on Hope,Food,948,-33.93181024599284,18.417816850821293,4db2a70e93a073feb21fbd93,City Bowl,22,No Rating Yet
+113,District Six Museum,History Museum,505,-33.927743268712405,18.423503710127804,4bd80bc8dc4b952101407888,City Bowl,89,No Rating Yet
+114,La Petite Tarte,Café,898,-33.916158848541635,18.417538629557846,4b4b20f1f964a520c39226e3,City Bowl,38,No Rating Yet
+115,Cape Town Holocaust Centre,Museum,817,-33.9301455823008,18.41674122777479,4b6564e9f964a52063ef2ae3,City Bowl,11,No Rating Yet
+116,Societi Bistro,French Restaurant,946,-33.92905575502097,18.413027816709768,4bba27f23db7b713cbf8229a,City Bowl,79,No Rating Yet
+117,Buena Vista Social Cafe,Cuban Restaurant,623,-33.926208600967364,18.414953963492234,5485b611498edde70661b91c,City Bowl,18,No Rating Yet
+118,The Piano Bar,Piano Bar,987,-33.91542444847565,18.417155581762426,50a914d4e4b03f2b094fcddb,City Bowl,83,No Rating Yet
+119,Orms Pro Photo,Photography Lab,778,-33.93059545192941,18.422417025973388,4b5ac7a1f964a5204cd428e3,City Bowl,40,No Rating Yet
+120,Harringtons,Bar,590,-33.928363902672785,18.424041823326455,57f79a87498e97194953e8c5,City Bowl,10,No Rating Yet
+121,Minato,Sushi Restaurant,573,-33.9257409103586,18.415285322788296,4bc4db9af8219c74ecfeb710,City Bowl,4,No Rating Yet
+122,Fabric City,Fabric Shop,898,-33.927436545928416,18.429613002500005,4eec47568b81bbbf5bcc36fd,City Bowl,8,No Rating Yet
+123,Giovanni's Deliworld,Bakery,255,-33.90782184808231,18.40972751775552,4b51863af964a520ed4e27e3,Atlantic Seaboard,159,No Rating Yet
+124,Jason Bakery,Bakery,292,-33.90814555679022,18.410891348801574,5a2cf00b35f9833b4ce7d183,Atlantic Seaboard,25,No Rating Yet
+125,Atlantic Point Backpackers Lodge,Hotel,288,-33.90948577917452,18.411593014769963,4d320925c75a6ea8803e0aae,Atlantic Seaboard,15,No Rating Yet
+126,Cabrito,Bar,287,-33.90831531811706,18.41098194413961,520bc1a011d235a4fadfa1ac,Atlantic Seaboard,31,No Rating Yet
+127,Big Route Gourmet Pizzeria,Pizza Place,247,-33.90777064392352,18.409355365419817,500ec06be4b0bfdb6d36afd4,Atlantic Seaboard,50,No Rating Yet
+128,Rocomamas,Burger Joint,244,-33.907756180031576,18.40918560395864,4bae48b1f964a5201d9d3be3,Atlantic Seaboard,49,No Rating Yet
+129,El Burro,Mexican Restaurant,281,-33.90839898887066,18.41097445637066,4d0a3452454c6dcbd26e3d8e,Atlantic Seaboard,144,No Rating Yet
+130,UpperBloem,Restaurant,333,-33.908406,18.411642999999998,5b11ac0467f62b002c41022c,Atlantic Seaboard,6,No Rating Yet
+131,The BIG,Hostel,86,-33.9103,18.40929,5246738611d2ac79d736b01c,Atlantic Seaboard,19,No Rating Yet
+132,nü,Juice Bar,427,-33.909010104495145,18.41301459647644,5412b432498eac1f78dbfcaf,Atlantic Seaboard,25,No Rating Yet
+133,Gelato Mania,Ice Cream Shop,310,-33.90853352619647,18.411449225286262,4c03dc360d0e0f47a518039a,Atlantic Seaboard,34,No Rating Yet
+134,Cape Point Lighthouse,Lighthouse,406,-33.9090503289127,18.412788856138288,5475e1cc498e6bd4fc31f250,Atlantic Seaboard,9,No Rating Yet
+135,Woolworths Food,Grocery Store,433,-33.909166676233184,18.41311755211298,4c0a20216071a593b00edf32,Atlantic Seaboard,37,No Rating Yet
+136,"Sky Bar, Cape Royale",Cocktail Bar,325,-33.909185562008865,18.411927726072136,4b93afb6f964a520f54c34e3,Atlantic Seaboard,21,No Rating Yet
+137,Brenwin Guest House Green Point (South Africa),Hotel,255,-33.910849030902504,18.41101235850715,4be19ace8dd062b5ab693e3c,Atlantic Seaboard,8,No Rating Yet
+138,Cape Royale Hotel,Hotel,371,-33.90880711112639,18.412311777962515,4bae1a28f964a5205a843be3,Atlantic Seaboard,46,No Rating Yet
+139,Hudsons on Somerset,Burger Joint,396,-33.90905242086595,18.412678374192065,4ce6b7760f196dcb1d5f39ae,Atlantic Seaboard,134,No Rating Yet
+140,never@home Design Hostel,Hostel,241,-33.90776853054979,18.4091345368432,547b5710498e141c4cecc8da,Atlantic Seaboard,11,No Rating Yet
+141,One&Only Cape Town,Resort,747,-33.90866854189105,18.41646138178,4b700ea8f964a52041052de3,Atlantic Seaboard,174,No Rating Yet
+142,Green Point Urban Park,Park,753,-33.90555738278987,18.40221851536896,4d9dc1d6c593a1cdef2b6719,Atlantic Seaboard,109,No Rating Yet
+143,Cape Town Stadium,Stadium,686,-33.904078101012956,18.411027109916294,4c049d8d302295213dc9de81,Atlantic Seaboard,199,No Rating Yet
+144,Virgin Active Health Club,Gym,645,-33.90633773128665,18.402970923638318,4b4c2b05f964a52025af26e3,Atlantic Seaboard,103,No Rating Yet
+145,Vida e Caffè,Coffee Shop,431,-33.90907535559835,18.413077327151708,4bf476342d62952104206058,Atlantic Seaboard,26,No Rating Yet
+146,Shift Espresso Bar,Coffee Shop,362,-33.9087686348349,18.41218890327141,53aeb057498e7b9f40cde779,Atlantic Seaboard,34,No Rating Yet
+147,Buena Vista Social Cafe,Cuban Restaurant,494,-33.90861206671749,18.4136355555748,4c935eb71221b1f7504619e2,Atlantic Seaboard,21,No Rating Yet
+148,Pigalle,Seafood Restaurant,844,-33.913161220900925,18.416743956402897,4bc0aaf8abf495217098bf93,Atlantic Seaboard,111,No Rating Yet
+149,Sugar Hotel,Hotel,639,-33.91137198582969,18.41518771707617,4bac5f2ff964a52047f23ae3,Atlantic Seaboard,8,No Rating Yet
+150,Grand Cafe and Beach,Café,578,-33.90553,18.411939999999998,4be254e22fc7d13a6d5e083a,Atlantic Seaboard,186,No Rating Yet
+151,Mano's,Gastropub,435,-33.909412097053725,18.41318766918164,4b62dec0f964a52087562ae3,Atlantic Seaboard,25,No Rating Yet
+152,Watershed,Market,943,-33.907116168436936,18.41816228150922,54429072498e71ae5f3585e7,Atlantic Seaboard,202,No Rating Yet
+153,Ultra Liquors,Liquor Store,235,-33.90776717277886,18.408402247930677,4c93190b1221b1f79d5417e2,Atlantic Seaboard,14,No Rating Yet
+154,CitySightseeing Cape Town,Tour Provider,881,-33.90741867987649,18.417575595352176,5030d9a5e4b0bde727182abc,Atlantic Seaboard,21,No Rating Yet
+155,Cooked,Coffee Shop,947,-33.90712279784909,18.418205335202128,566da475498ed2e93de35c6c,Atlantic Seaboard,19,No Rating Yet
+156,Two Oceans Aquarium,Aquarium,882,-33.90801318736242,18.417792260484756,4b921942f964a52022e733e3,Atlantic Seaboard,348,No Rating Yet
+157,Blackheath Lodge,Bed & Breakfast,998,-33.910203631646795,18.39769676782069,4cd87a9551fc8cfaf9c0e95d,Atlantic Seaboard,12,No Rating Yet
+158,Villa Zest,Hotel,513,-33.91065240884474,18.413980916920085,4cc30fdf82388cfa6d016535,Atlantic Seaboard,4,No Rating Yet
+159,Casa Blanca Night Club,Nightclub,594,-33.90785128623892,18.414458531192704,4efa38e777c8e88f4a2fb5a8,Atlantic Seaboard,7,No Rating Yet
+160,Ashanti Lodge - Greenpoint,Hostel,731,-33.909241185480425,18.400622335368308,4c70026eb5fe9521bf666311,Atlantic Seaboard,4,No Rating Yet
+161,Spa - The One&Only Cape Town,Spa,707,-33.909397635651644,18.41613829135895,4ffaf456e4b0f1c61a21597c,Atlantic Seaboard,6,No Rating Yet
+162,Village Café,Breakfast Spot,971,-33.9154162518468,18.416634829715253,4ba5d64af964a520fb2439e3,Atlantic Seaboard,20,No Rating Yet
+163,Brew,Coffee Shop,321,-33.90864760240377,18.411647197187428,51dfc3b4498e5c0fc354cdbb,Atlantic Seaboard,5,No Rating Yet
+164,Best Of Asia,Sushi Restaurant,249,-33.90779360842176,18.40950037713233,4f802e61e4b0bf6cc926c85f,Atlantic Seaboard,10,No Rating Yet
+165,Jade,Nightclub,430,-33.909467050957275,18.413132165910124,4bca16c4511f95211e00afc7,Atlantic Seaboard,15,No Rating Yet
+166,Vista Bar - The One&Only Cape Town,Hotel Bar,738,-33.908906174034726,18.416411431018613,4de12a1b8877aab7fe5c99c6,Atlantic Seaboard,10,No Rating Yet
+167,V&A Marina Apartments,Hotel,820,-33.910357633603894,18.4173671207318,4cc196d8668db60c18a814b4,Atlantic Seaboard,24,No Rating Yet
+168,Sunflower Stop Hostel Cape Town,Hostel,467,-33.907974514213336,18.403996295373343,4be197068dd062b5d4653e3c,Atlantic Seaboard,5,No Rating Yet
+169,Beefcakes,Gay Bar,968,-33.914110717536374,18.417665632044674,4b504a72f964a520e31f27e3,Atlantic Seaboard,50,No Rating Yet
+170,Noon Gun,Scenic Lookout,664,-33.915270039792034,18.41158924505828,4bd2bdbaa8b3a5938173685f,Atlantic Seaboard,6,No Rating Yet
+171,The Foundry,Shopping Mall,976,-33.91222960021183,18.41868276606886,4c7ca6f283a7bfb7b65696f8,Atlantic Seaboard,23,No Rating Yet
+172,Nobu - The One&Only Cape Town,Japanese Restaurant,742,-33.908877907255565,18.41644643730385,4b72f54ff964a5202d922de3,Atlantic Seaboard,91,No Rating Yet
+173,Beluga,Sushi Restaurant,950,-33.91243967919306,18.418321047644554,4bdd96b339b4c9288c681193,Atlantic Seaboard,234,No Rating Yet
+174,Sloppy Sam,Mediterranean Restaurant,870,-33.913184179999995,18.417037,4b6c4970f964a520f22d2ce3,Atlantic Seaboard,7,No Rating Yet
+175,Glasshouse,Cosmetics Shop,982,-33.912564333647914,18.41862835433733,4be6ae2a8a8cb7138980c4a0,Atlantic Seaboard,6,No Rating Yet
+176,Vista Marina,Mediterranean Restaurant,907,-33.908045,18.418070999999998,58b7fface9efba3ce673ff4b,Atlantic Seaboard,8,No Rating Yet
+177,KFC,Fast Food Restaurant,955,-33.91399902364156,18.417570010826413,4bf6726babdaef3ba042a184,Atlantic Seaboard,13,No Rating Yet
+178,VIVA CAFE,Tapas Restaurant,807,-33.913454732863215,18.416100680577685,50c1e502e4b0eb146376ddb4,Atlantic Seaboard,11,No Rating Yet
+179,Commodore Hotel,Hotel,907,-33.90628686367284,18.41732509731191,4c33ec27213c2d7f8ecf375d,Atlantic Seaboard,60,No Rating Yet
+180,Marios,Restaurant,285,-33.90818818771397,18.41082427787595,4cd59c3276ab721e8f346e6a,Atlantic Seaboard,2,No Rating Yet
+181,Cafe Extrablatt,Café,299,-33.908380691796275,18.41119741939031,4e8c82ba93adecfdb96c7047,Atlantic Seaboard,41,No Rating Yet
+182,Bo-kaap Kombuis,Restaurant,945,-33.91754754196031,18.41290115837862,4d14ed8a8312236a54774eba,Atlantic Seaboard,22,No Rating Yet
+183,Craft Market & Wellness Centre,Arts & Crafts Store,983,-33.90689790483063,18.418520389459058,4cdc05d5c409b60cd211d81a,Atlantic Seaboard,21,No Rating Yet
+184,Romney Park All Suite Hotel & Spa,Hotel,538,-33.909917948355385,18.402679378200286,4b4f857af964a520e60927e3,Atlantic Seaboard,8,No Rating Yet
+185,Table Thirteen,Restaurant,896,-33.91254117456231,18.41765820350372,4b878014f964a52021c131e3,Atlantic Seaboard,10,No Rating Yet
+186,Protea Hotel by Marriott Cape Town Victoria Junction,Hotel,870,-33.912731821146664,18.417278214965336,5b48591cc9a51700396a6f6a,Atlantic Seaboard,1,No Rating Yet
+187,Bootlegger Coffee Company,Coffee Shop,451,-33.909503961773105,18.413368811299573,59ef4d0f92e7a94da77d450f,Atlantic Seaboard,13,No Rating Yet
+188,Vida e Caffe Prestwich Street,Coffee Shop,963,-33.91287069130057,18.418289990305126,4fa8abffe4b08ab44fa539d8,Atlantic Seaboard,6,No Rating Yet
+189,Protea Breakwater Lodge,Hotel,690,-33.9078499,18.415570300000002,4bcf6d830ffdce72d077b2c0,Atlantic Seaboard,39,No Rating Yet
+190,Primi Oxford Hotel,Hotel,532,-33.910797678362385,18.41416199474988,4fff64fee4b0bc634560cc0a,Atlantic Seaboard,5,No Rating Yet
+191,The Portswood Hotel,Hotel,966,-33.90600232934396,18.41786970331059,4b841e78f964a520fe2131e3,Atlantic Seaboard,13,No Rating Yet
+192,"Limnos Bakery, Green Point",Bakery,951,-33.91392437913351,18.417568300868048,4bf4373d354e9c74d1b72602,Atlantic Seaboard,10,No Rating Yet
+193,ZAR,Nightclub,363,-33.90873356475382,18.41219281698066,4d699c05de28224bb48545be,Atlantic Seaboard,2,No Rating Yet
+194,Parkrun Greenpoint,Athletics & Sports,376,-33.90682623948012,18.406750277013906,52c7a17611d24f384e8bceda,Atlantic Seaboard,2,No Rating Yet
+195,Cape Town Station,Train Station,472,-33.90991887680646,18.40338911809662,4f48de60e4b03377e79bb487,Atlantic Seaboard,1,No Rating Yet
+196,Green Point Athletics Stadium,Athletics & Sports,551,-33.9049248813975,18.40872062697053,553ced52498e35c7182a0db2,Atlantic Seaboard,3,No Rating Yet
+197,Protea Hotel Victoria Junction,Hotel,873,-33.9129568203657,18.417193746170238,4c55ca9d30f92d7fa38bbbbc,Atlantic Seaboard,47,No Rating Yet
+198,Shoreline Cafe @ Two Oceans Aquarium,Café,898,-33.90812704951602,18.41800028199086,4bbdb1e7a8cf76b09607b2fd,Atlantic Seaboard,4,No Rating Yet
+199,Kingslyn Boutique Guesthouse,Hotel,593,-33.908924102783196,18.40218162536621,4ed242b6b634dd2993b81466,Atlantic Seaboard,5,No Rating Yet
+200,Kauai : Point Virgin Active,Juice Bar,627,-33.906501436941326,18.403065593323273,4d91ed829acaa143879ef2f0,Atlantic Seaboard,3,No Rating Yet
+201,Protea Hotel Cape Castle,Hotel,644,-33.91148046886514,18.41520547676504,4e3a8d5c1495c19cfbc44cd7,Atlantic Seaboard,6,No Rating Yet
+202,Antrim Villa,Hotel,648,-33.908784963679516,18.40160301790957,4d60af66b6b9a1cd50fe7e51,Atlantic Seaboard,2,No Rating Yet
+203,Greenpoint Tennis Club,Tennis Court,757,-33.9065244270183,18.40137243867734,4f27a86ee4b052a5c81715d0,Atlantic Seaboard,1,No Rating Yet
+204,Head South Lodge,Hotel,788,-33.90837492862212,18.400157020207818,4bce2588c564ef3b87c0edf0,Atlantic Seaboard,3,No Rating Yet
+205,Green Point Adventure Play Park,Park,824,-33.9049,18.4019,55c5da2b498e17a6c59bd016,Atlantic Seaboard,4,No Rating Yet
+206,MyCiti Bus Station Granger Bay,Bus Station,836,-33.904443024588815,18.414753445707337,4dda6d311838b8561d2f8f22,Atlantic Seaboard,0,No Rating Yet
+207,The Ring Boxing Club,Gym / Fitness Center,994,-33.905889,18.398865,515e5278e4b05bf8813cb471,Atlantic Seaboard,0,No Rating Yet
+208,Ashley's,Diner,612,-33.91162392300551,18.552042018294113,4bf90e4c5ec320a1aea789d3,Goodwood,20,No Rating Yet
+209,Grand West Hotel,Hotel,733,-33.91245982452779,18.54537439514585,4cea99ce948f224bc05efc5d,Goodwood,1,No Rating Yet
+210,Tomahawk Spur,Steakhouse,732,-33.91250095793893,18.545507736215992,4d8b8e627139b1f74eb3e2d4,Goodwood,1,No Rating Yet
+211,KFC,Fast Food Restaurant,652,-33.9124,18.5477,4ec2a75146901113fe4d590e,Goodwood,1,No Rating Yet
+212,Goodwood Sports Club,Cricket Ground,228,-33.904781138504504,18.54819775802311,4c26146f5c5ca593ff6a45fe,Goodwood,1,No Rating Yet
+213,KFC,Fast Food Restaurant,647,-33.91231861899807,18.547489098495337,4dcaade3fa7684db0906a2e1,Goodwood,1,No Rating Yet
+214,Debonairs Pizza,Pizza Place,638,-33.912401308406984,18.549417930413483,4ddd415322713339cd28b719,Goodwood,2,No Rating Yet
+215,Simply Asia,Thai Restaurant,746,-33.91263981265898,18.54548454646108,4de8ae1d1f6e9b5377122333,Goodwood,0,No Rating Yet
+216,Goodwood Mall,Shopping Mall,747,-33.91261875856669,18.545420350441663,4c7d1f353e90a1cdb75544be,Goodwood,2,No Rating Yet
+217,Magic Bowling,Bowling Alley,747,-33.91262854167082,18.545443964393613,4d84a21c5ad3a0935027d3fd,Goodwood,4,No Rating Yet
+218,Zakspeed,Electronics Store,811,-33.913167691177556,18.54519467465198,4c9dab0e03133704e65b61d5,Goodwood,2,No Rating Yet
+219,Estoril Superette,Convenience Store,966,-33.91097336550683,18.558256532108057,4daacf3943a11281970097cb,Goodwood,0,No Rating Yet
+220,Pick n Pay Goodwood Mall,Grocery Store,969,-33.910901545631376,18.539994414479533,4d8b409d26a36ea8b9d204ae,Goodwood,1,No Rating Yet
+221,KFC Protea Heights,Fried Chicken Joint,568,-33.8802,18.7051,56ec538f498ef3bb006b51f0,Brackenfell,1,No Rating Yet
+222,Brackenfell Supermarket,Convenience Store,431,-33.88490949,18.69590453,4de0c6efc65bcc724f47a55e,Brackenfell,1,No Rating Yet
+223,Greenfields Pub,Pub,609,-33.88117592304591,18.70619773864746,4ce1bf353644a09300bf5e9f,Brackenfell,0,No Rating Yet
+224,The Lighthouse Cafe,Café,175,-34.193163993654586,18.43135689901424,514d8bffe4b091940a1725ea,Simons Town,57,No Rating Yet
+225,Monocle & Mermaid,Café,21,-34.193270586211405,18.433466871660144,545e3eca498e7ab0f02e0435,Simons Town,18,No Rating Yet
+226,The Sweetest Thing,Café,249,-34.19317047351982,18.43055182667423,4bbb4de63db7b713a626249a,Simons Town,9,No Rating Yet
+227,Saveur Restaurant,Seafood Restaurant,85,-34.192911526213344,18.432391332695282,54ad0e2b498ed6d6c86153cc,Simons Town,23,No Rating Yet
+228,The Meeting Place,Café,116,-34.193254130109054,18.43200765819856,4baf22c5f964a52011ed3be3,Simons Town,11,No Rating Yet
+229,Jubilee Square,Plaza,2,-34.193203597618705,18.43325841187448,4d1b45f35acb721ed0f30cb2,Simons Town,6,No Rating Yet
+230,The 2'6 Pence,Pub,201,-34.19315718210969,18.431073556333466,4d190352816af04d793e5ac2,Simons Town,5,No Rating Yet
+231,Salty Sea Dog,Seafood Restaurant,83,-34.19290297025501,18.432423161256683,4c5ff05190b2c9b6d2883b22,Simons Town,24,No Rating Yet
+232,Shell,Gas Station,458,-34.19273559,18.42831778,50211180e4b05f2aebf5b7c4,Simons Town,0,No Rating Yet
+233,Cafe Pescado,Italian Restaurant,40,-34.1934707511544,18.432994118030347,4ba3b8d7f964a5204b5838e3,Simons Town,10,No Rating Yet
+234,Quarterdeck Restaurant,Café,40,-34.19293419990403,18.433595773445436,4c4c26e2f7cc1b8dc692e540,Simons Town,10,No Rating Yet
+235,The HarbourView Coffee Shop,Coffee Shop,87,-34.19302131399117,18.432333091972755,4d19e19d85fc6dcb50dec04e,Simons Town,9,No Rating Yet
+236,Quayside Waterfront Centre,Harbor / Marina,71,-34.19299063538217,18.43252658843994,4d6f8a5db73bb1f782edab72,Simons Town,3,No Rating Yet
+237,Simons Town Waterfront,Harbor / Marina,109,-34.19247,18.432446,57e6a86b498e04f9a93401eb,Simons Town,8,No Rating Yet
+238,JB's Ice Cream Parlor,Ice Cream Shop,80,-34.193271289703624,18.43240048609736,4f06c203e4b0e624d54e6c2a,Simons Town,1,No Rating Yet
+239,Tasty Table,Bistro,44,-34.193523,18.433023000000002,5958ccb22be425119f681e51,Simons Town,1,No Rating Yet
+240,Simon's Town Quayside Hotel,Hotel,29,-34.1931494,18.4329507,4f07ed76e4b05dd3a2a02973,Simons Town,1,No Rating Yet
+241,uberall,Advertising Agency,62,-34.19356083,18.43376704,599b739966fc650779e2b50d,Simons Town,0,No Rating Yet
+242,False Bay Yacht Club,Harbor / Marina,111,-34.19238550544632,18.434002963488734,4cd1a4bb5b5ca35da3bf82f0,Simons Town,6,No Rating Yet
+243,Heather Auer Art & Sculpture,Art Gallery,74,-34.19284864566948,18.43256950378418,4c5bc21799ff76b0bbd4a69e,Simons Town,2,No Rating Yet
+244,Simon's Town Musem,History Museum,593,-34.191082628639904,18.427344560623172,4d6f831327316ea873ecb0aa,Simons Town,0,No Rating Yet
+245,Mariner Guest House,Bed & Breakfast,690,-34.195919119891144,18.4399938583374,4d75f5b8b7f82c0f7e168238,Simons Town,4,No Rating Yet
+246,Long Beach,Beach,930,-34.187365515146915,18.426002242282127,4d7778709ee9a35d66dfb2f8,Simons Town,3,No Rating Yet
+247,Woolworths,Supermarket,161,-34.04299074269613,18.357395657275863,4cd81d427d454688bafae9ed,Hout Bay,25,No Rating Yet
+248,Hout Bay Coffee,Coffee Shop,309,-34.04295135647409,18.35899597303181,54bcf32a498e5ac87c42eb86,Hout Bay,15,No Rating Yet
+249,Cheyne's,Mediterranean Restaurant,427,-34.04446461706228,18.359975213155245,517fff56e4b085cc8e56e30b,Hout Bay,19,No Rating Yet
+250,Hout Bay Beach,Beach,514,-34.04618111413202,18.35979558901334,4d170e38816af04d82b64cc2,Hout Bay,46,No Rating Yet
+251,Hout Bay Craft Market,Arts & Crafts Store,450,-34.0424896920421,18.360471725463867,4ba5e990f964a520f32839e3,Hout Bay,6,No Rating Yet
+252,Mariner's Wharf,Harbor / Marina,825,-34.047480792528894,18.34842972434071,4d1477cbbb488cfaed3097d4,Hout Bay,124,No Rating Yet
+253,Dunes,Seafood Restaurant,374,-34.045606579953535,18.358335754108964,4b9ba93df964a520c31736e3,Hout Bay,70,No Rating Yet
+254,Hout Bay Manor,Hotel Bar,469,-34.043131309400664,18.360734271088468,4b9cc27cf964a520337a36e3,Hout Bay,4,No Rating Yet
+255,Posticino Ristorante Hout Bay,Italian Restaurant,696,-34.0466336096008,18.361875758350227,52a8c1ef11d25bb03486a1f8,Hout Bay,8,No Rating Yet
+256,Dario's,Italian Restaurant,454,-34.04351904415244,18.35073936915457,4b63e77ef964a52075962ae3,Hout Bay,13,No Rating Yet
+257,Pakalolo,Restaurant,701,-34.046470126431586,18.362060332083125,4b9246aaf964a52086ef33e3,Hout Bay,13,No Rating Yet
+258,Casareccio,Italian Restaurant,616,-34.04585538508249,18.361440740525726,4b633d3ef964a520cb6c2ae3,Hout Bay,12,No Rating Yet
+259,The Wharfside Grill,Seafood Restaurant,819,-34.0474072683435,18.348444593821945,4d0cbcaa8010548114331a96,Hout Bay,23,No Rating Yet
+260,Trattoria Luigi,Italian Restaurant,334,-34.043694,18.359197,4b8e98caf964a520e92a33e3,Hout Bay,1,No Rating Yet
+261,Chapmans Peak Hotel,Hotel,705,-34.046943236781225,18.361717746156163,4b656e3af964a5205ef02ae3,Hout Bay,58,No Rating Yet
+262,Ragafellows,Steakhouse,334,-34.043785395112096,18.35916980243097,52b33531498eaff70f1be607,Hout Bay,3,No Rating Yet
+263,Deli Delish,Deli / Bodega,507,-34.04559709869473,18.360247630701114,4b66cf2ff964a520ac2b2be3,Hout Bay,4,No Rating Yet
+264,Hout Bay Spar,Supermarket,563,-34.0405,18.3504,4ce7a966595cb1f722ebc314,Hout Bay,15,No Rating Yet
+265,Mainstream Shopping Centre,Shopping Mall,375,-34.045605910509536,18.35835954923283,4bb60ad846d4a5933098c5c0,Hout Bay,4,No Rating Yet
+266,Spiro's Greek Restaurant,Greek Restaurant,548,-34.045134082551286,18.361060080798865,4cfa26fdfeec6dcbb0f63d36,Hout Bay,24,No Rating Yet
+267,Ocean basket,Seafood Restaurant,559,-34.04430814665536,18.349759967224983,4d0a4c7c5edd5481e7e3049b,Hout Bay,0,No Rating Yet
+268,Delish Houtbay,Bistro,503,-34.045546,18.360227,537c8b32498ee27a2f7b1624,Hout Bay,5,No Rating Yet
+269,Ocean Basket,Seafood Restaurant,577,-34.04532731806308,18.3612905283484,4c696d0e0e98a59303632459,Hout Bay,0,No Rating Yet
+270,Bugatti's Trattoria,Pizza Place,554,-34.04078137019706,18.350322000452415,50afa5aee4b00a661c335a62,Hout Bay,7,No Rating Yet
+271,Ta-Da Creperie & Coffee Bar,Coffee Shop,513,-34.04185813915021,18.35028144132193,5076767fe4b0d316330e9649,Hout Bay,6,No Rating Yet
+272,KFC,Fast Food Restaurant,483,-34.0419,18.3506,4c6c235ba437224ba48429b1,Hout Bay,0,No Rating Yet
+273,Gabriella's,Coffee Shop,160,-34.042346190564594,18.35713600409748,4e6b293d88772457c4c569f6,Hout Bay,0,No Rating Yet
+274,W Café,Café,173,-34.04290189430646,18.3575068382022,500c0a9ae4b098bae33d1366,Hout Bay,0,No Rating Yet
+275,Clicks,Department Store,176,-34.04268020949131,18.357491453381513,4e75d9fcd4c0934472103b29,Hout Bay,0,No Rating Yet
+276,Seafood Bistro,Seafood Restaurant,827,-34.047415,18.348345000000002,4d87363d02eb5481ec9765f5,Hout Bay,3,No Rating Yet
+277,Woodcutters Arms,Pub,332,-34.043229486420074,18.359246557684504,51a0f365498ee67d837d21c5,Hout Bay,5,No Rating Yet
+278,Ice Dream,Ice Cream Shop,339,-34.043856291204094,18.35921036263706,4bd45477462cb7136602e007,Hout Bay,2,No Rating Yet
+279,Checkers,Grocery Store,352,-34.044466272212354,18.359082887720138,4e60769652b1260c1241f62a,Hout Bay,0,No Rating Yet
+280,La Cabane,Restaurant,444,-34.045,18.359878,4da170677ccc816e54fa527b,Hout Bay,0,No Rating Yet
+281,The Workshop,Pub,539,-34.044895000000004,18.361079,4b641deaf964a520d39f2ae3,Hout Bay,1,No Rating Yet
+282,The Vine,Coffee Shop,576,-34.045528000000004,18.361156,5abe3b0a8c812a75b8ec79ac,Hout Bay,2,No Rating Yet
+283,"Sushi Zone, Hout Bay",Sushi Restaurant,646,-34.046058833901704,18.36166716140094,4d25d303bcc1224bfb2d941b,Hout Bay,1,No Rating Yet
+284,Vida E Caffè,Coffee Shop,647,-34.04683046218402,18.36101700388365,4ed87e12d3e346be320033ad,Hout Bay,4,No Rating Yet
+285,Thai Cafe,Asian Restaurant,658,-34.045881,18.361937,4bbcbf9fa8cf76b0dde3b0fd,Hout Bay,2,No Rating Yet
+286,Muriel's munchies,Seafood Restaurant,904,-34.04808754786446,18.347905843684472,4de8e558227148fcea3a6010,Hout Bay,3,No Rating Yet
+287,Green Point Urban Park,Park,375,-33.90555738278987,18.40221851536896,4d9dc1d6c593a1cdef2b6719,Green Point,109,No Rating Yet
+288,Giovanni's Deliworld,Bakery,527,-33.90782184808231,18.40972751775552,4b51863af964a520ed4e27e3,Green Point,159,No Rating Yet
+289,Virgin Active Health Club,Gym,361,-33.90633773128665,18.402970923638318,4b4c2b05f964a52025af26e3,Green Point,103,No Rating Yet
+290,Cape Town Stadium,Stadium,467,-33.904078101012956,18.411027109916294,4c049d8d302295213dc9de81,Green Point,199,No Rating Yet
+291,Mouille Point Promenade,Pedestrian Plaza,561,-33.899558054838174,18.403773307800293,4e1db702922e8d173063b3c3,Green Point,49,No Rating Yet
+292,Jason Bakery,Bakery,627,-33.90814555679022,18.410891348801574,5a2cf00b35f9833b4ce7d183,Green Point,25,No Rating Yet
+293,Green Point Lighthouse,Lighthouse,641,-33.90140139307377,18.399943113327023,4c2da6ffe307d13ac02f0eda,Green Point,50,No Rating Yet
+294,Big Route Gourmet Pizzeria,Pizza Place,500,-33.90777064392352,18.409355365419817,500ec06be4b0bfdb6d36afd4,Green Point,50,No Rating Yet
+295,Rocomamas,Burger Joint,489,-33.907756180031576,18.40918560395864,4bae48b1f964a5201d9d3be3,Green Point,49,No Rating Yet
+296,Cabrito,Bar,647,-33.90831531811706,18.41098194413961,520bc1a011d235a4fadfa1ac,Green Point,31,No Rating Yet
+297,The Hussar Grill,Steakhouse,666,-33.9040106465762,18.398758440541393,5676faab498e7758023b13ef,Green Point,63,No Rating Yet
+298,El Burro,Mexican Restaurant,653,-33.90839898887066,18.41097445637066,4d0a3452454c6dcbd26e3d8e,Green Point,144,No Rating Yet
+299,UpperBloem,Restaurant,698,-33.908406,18.411642999999998,5b11ac0467f62b002c41022c,Green Point,6,No Rating Yet
+300,The Creamery Cafe,Ice Cream Shop,634,-33.90396477935081,18.399109667591485,5659d141498e7481a32d3947,Green Point,32,No Rating Yet
+301,Atlantic Point Backpackers Lodge,Hotel,780,-33.90948577917452,18.411593014769963,4d320925c75a6ea8803e0aae,Green Point,15,No Rating Yet
+302,Grand Cafe and Beach,Café,569,-33.90553,18.411939999999998,4be254e22fc7d13a6d5e083a,Green Point,186,No Rating Yet
+303,nü,Juice Bar,838,-33.909010104495145,18.41301459647644,5412b432498eac1f78dbfcaf,Green Point,25,No Rating Yet
+304,Gelato Mania,Ice Cream Shop,695,-33.90853352619647,18.411449225286262,4c03dc360d0e0f47a518039a,Green Point,34,No Rating Yet
+305,Oranjezicht Farmers Market,Farmers Market,870,-33.902330556314176,18.415097942270673,557c0711498edbe4da8f6b7a,Green Point,64,No Rating Yet
+306,Cape Point Lighthouse,Lighthouse,825,-33.9090503289127,18.412788856138288,5475e1cc498e6bd4fc31f250,Green Point,9,No Rating Yet
+307,never@home Design Hostel,Hostel,488,-33.90776853054979,18.4091345368432,547b5710498e141c4cecc8da,Green Point,11,No Rating Yet
+308,manga,Asian Restaurant,467,-33.900859999999994,18.403001999999997,57decdd5498e476f02c63a0d,Green Point,6,No Rating Yet
+309,The BIG,Hostel,739,-33.9103,18.40929,5246738611d2ac79d736b01c,Green Point,19,No Rating Yet
+310,Sotano,Mediterranean Restaurant,606,-33.89988327026367,18.40989112854004,4cdec33ddf986ea8d1cddd16,Green Point,72,No Rating Yet
+311,Ashanti Lodge - Greenpoint,Hostel,742,-33.909241185480425,18.400622335368308,4c70026eb5fe9521bf666311,Green Point,4,No Rating Yet
+312,Cape Royale Hotel,Hotel,774,-33.90880711112639,18.412311777962515,4bae1a28f964a5205a843be3,Green Point,46,No Rating Yet
+313,Woolworths Food,Grocery Store,857,-33.909166676233184,18.41311755211298,4c0a20216071a593b00edf32,Green Point,37,No Rating Yet
+314,Sea Point Promenade Park,Playground,930,-33.90657596779252,18.396296022745315,4c3490563ffc95210de790f5,Green Point,14,No Rating Yet
+315,Wafu,Sushi Restaurant,457,-33.90018276210156,18.405283014685427,4b688a10f964a520a67e2be3,Green Point,6,No Rating Yet
+316,Metropolitan Golf Club,Golf Course,470,-33.90079437387031,18.408888909672847,4e242109d164740632208f85,Green Point,8,No Rating Yet
+317,The Butcher Shop & Grill,Steakhouse,594,-33.901679454719265,18.400334491967726,53f8e123498ea90065a156b5,Green Point,58,No Rating Yet
+318,"Sky Bar, Cape Royale",Cocktail Bar,777,-33.909185562008865,18.411927726072136,4b93afb6f964a520f54c34e3,Green Point,21,No Rating Yet
+319,Ultra Liquors,Liquor Store,450,-33.90776717277886,18.408402247930677,4c93190b1221b1f79d5417e2,Green Point,14,No Rating Yet
+320,Hudsons on Somerset,Burger Joint,818,-33.90905242086595,18.412678374192065,4ce6b7760f196dcb1d5f39ae,Green Point,134,No Rating Yet
+321,Radisson Blu Hotel,Hotel,762,-33.89961457899888,18.412039275207466,4be30a5bf07b0f47c6ebf643,Green Point,118,No Rating Yet
+322,Lily's,Restaurant,466,-33.90009085628469,18.405437095949853,5934345962420b11b88938b6,Green Point,23,No Rating Yet
+323,Buena Vista Social Cafe,Cuban Restaurant,858,-33.90861206671749,18.4136355555748,4c935eb71221b1f7504619e2,Green Point,21,No Rating Yet
+324,Shift Espresso Bar,Coffee Shop,763,-33.9087686348349,18.41218890327141,53aeb057498e7b9f40cde779,Green Point,34,No Rating Yet
+325,Vida e Caffè,Coffee Shop,847,-33.90907535559835,18.413077327151708,4bf476342d62952104206058,Green Point,26,No Rating Yet
+326,Pepeneros,Italian Restaurant,461,-33.90012661651019,18.405541411480304,4cbdd5374495721eadb6617a,Green Point,45,No Rating Yet
+327,Sunflower Stop Hostel Cape Town,Hostel,452,-33.907974514213336,18.403996295373343,4be197068dd062b5d4653e3c,Green Point,5,No Rating Yet
+328,Brenwin Guest House Green Point (South Africa),Hotel,869,-33.910849030902504,18.41101235850715,4be19ace8dd062b5ab693e3c,Green Point,8,No Rating Yet
+329,Casa Blanca Night Club,Nightclub,880,-33.90785128623892,18.414458531192704,4efa38e777c8e88f4a2fb5a8,Green Point,7,No Rating Yet
+330,Mano's,Gastropub,879,-33.909412097053725,18.41318766918164,4b62dec0f964a52087562ae3,Green Point,25,No Rating Yet
+331,Best Of Asia,Sushi Restaurant,511,-33.90779360842176,18.40950037713233,4f802e61e4b0bf6cc926c85f,Green Point,10,No Rating Yet
+332,Brew,Coffee Shop,717,-33.90864760240377,18.411647197187428,51dfc3b4498e5c0fc354cdbb,Green Point,5,No Rating Yet
+333,Clicks,Pharmacy,924,-33.90833084448987,18.397243208999466,4c8cf460f0ce236a877d1cef,Green Point,11,No Rating Yet
+334,Jade,Nightclub,880,-33.909467050957275,18.413132165910124,4bca16c4511f95211e00afc7,Green Point,15,No Rating Yet
+335,Buzbey Grill,Steakhouse,893,-33.908027000000004,18.397432000000002,4bf6bd984a67c9287f5422cf,Green Point,3,No Rating Yet
+336,Caffe Neo,Café,614,-33.90176616761468,18.400029494142228,4b4c4936f964a52082b026e3,Green Point,34,No Rating Yet
+337,Woolworths,Grocery Store,999,-33.90885503580368,18.396678489796905,4c8cc62dc37a6dcb9912fa7a,Green Point,5,No Rating Yet
+338,Newport Deli,Sandwich Place,572,-33.90190553604957,18.400456244311137,4ba60cb1f964a520353039e3,Green Point,9,No Rating Yet
+339,Richard's Bistro,Breakfast Spot,930,-33.90840567906738,18.39722321635365,4f5c79d7e4b0d8f7b6f847fe,Green Point,9,No Rating Yet
+340,Marios,Restaurant,626,-33.90818818771397,18.41082427787595,4cd59c3276ab721e8f346e6a,Green Point,2,No Rating Yet
+341,Romney Park All Suite Hotel & Spa,Hotel,699,-33.909917948355385,18.402679378200286,4b4f857af964a520e60927e3,Green Point,8,No Rating Yet
+342,Cafe Extrablatt,Café,666,-33.908380691796275,18.41119741939031,4e8c82ba93adecfdb96c7047,Green Point,41,No Rating Yet
+343,Xiang Yuan Chinese & Sushi.,Sushi Restaurant,965,-33.90861785595023,18.39693105351711,4d1f60025c4ca1cdc3d7983d,Green Point,6,No Rating Yet
+344,Bootlegger Coffee Company,Coffee Shop,899,-33.909503961773105,18.413368811299573,59ef4d0f92e7a94da77d450f,Green Point,13,No Rating Yet
+345,Putt Putt,Golf Course,725,-33.90471813929748,18.39813127555431,4badfe34f964a520d1783be3,Green Point,5,No Rating Yet
+346,Aldiwan | الديوان (Aldiwan),Café,992,-33.90873921144157,18.39668371940371,4d3c6b0a3ec9a35d046a4881,Green Point,9,No Rating Yet
+347,La Splendida,Hotel,567,-33.90149201701112,18.400811437520787,4d829d0699b78cfa1d0e8f1f,Green Point,5,No Rating Yet
+348,Green Point Athletics Stadium,Athletics & Sports,264,-33.9049248813975,18.40872062697053,553ced52498e35c7182a0db2,Green Point,3,No Rating Yet
+349,Parkrun Greenpoint,Athletics & Sports,294,-33.90682623948012,18.406750277013906,52c7a17611d24f384e8bceda,Green Point,2,No Rating Yet
+350,Protea Breakwater Lodge,Hotel,973,-33.9078499,18.415570300000002,4bcf6d830ffdce72d077b2c0,Green Point,39,No Rating Yet
+351,Kauai : Point Virgin Active,Juice Bar,366,-33.906501436941326,18.403065593323273,4d91ed829acaa143879ef2f0,Green Point,3,No Rating Yet
+352,5s futbol,Soccer Field,400,-33.900847999999996,18.407366,4d8371155ad3a0936e95bafd,Green Point,0,No Rating Yet
+353,Tobago's,African Restaurant,816,-33.899256447390144,18.41242689575923,4cd6f352aeb1224ba4162bff,Green Point,5,No Rating Yet
+354,Green Point Common,Park,533,-33.903563599385684,18.400253998061697,4baddb25f964a520b06d3be3,Green Point,0,No Rating Yet
+355,Seapoint beach,Beach,623,-33.90164873450237,18.399998727553392,4e3ea8f9aeb73139a188e163,Green Point,2,No Rating Yet
+356,Kingslyn Boutique Guesthouse,Hotel,626,-33.908924102783196,18.40218162536621,4ed242b6b634dd2993b81466,Green Point,5,No Rating Yet
+357,Antrim Villa,Hotel,645,-33.908784963679516,18.40160301790957,4d60af66b6b9a1cd50fe7e51,Green Point,2,No Rating Yet
+358,Cape Town Station,Train Station,673,-33.90991887680646,18.40338911809662,4f48de60e4b03377e79bb487,Green Point,1,No Rating Yet
+359,ZAR,Nightclub,760,-33.90873356475382,18.41219281698066,4d699c05de28224bb48545be,Green Point,2,No Rating Yet
+360,Head South Lodge,Hotel,705,-33.90837492862212,18.400157020207818,4bce2588c564ef3b87c0edf0,Green Point,3,No Rating Yet
+361,Mouille Point Lighthouse,Lighthouse,764,-33.906650064867385,18.398208362310022,4bf61fc7c07c9c74275dbbef,Green Point,6,No Rating Yet
+362,Radisson Blu Pier,Lighthouse,810,-33.899343086314694,18.412444881216413,4d2251035c4ca1cd13afb03d,Green Point,2,No Rating Yet
+363,MyCiti Bus Station Granger Bay,Bus Station,811,-33.904443024588815,18.414753445707337,4dda6d311838b8561d2f8f22,Green Point,0,No Rating Yet
+364,Jonkershuis Restaurant,Restaurant,409,-34.03071406873821,18.41894095683067,4b76fcdbf964a520cb712ee3,Constantia,68,No Rating Yet
+365,Groot Constantia,Vineyard,820,-34.027178501437014,18.42433830632882,4ba721b1f964a5204b8239e3,Constantia,212,No Rating Yet
+366,Constantia Uitsig Wine Farm,Winery,778,-34.027325091779645,18.423910088816413,4cc95701bfe1f04d13280d75,Constantia,5,No Rating Yet
+367,"Simon's, Groot Constantia",French Restaurant,371,-34.03120357482775,18.417613065669027,4c4b3e985609c9b6814edf90,Constantia,37,No Rating Yet
+368,Bismillah Take Aways & Fast Foods,Eastern European Restaurant,518,-33.997671999999994,18.702366,52c0644c498e7c709c216a4e,Blue Downs,0,No Rating Yet
+369,BP,Gas Station,668,-34.00147,18.690479999999997,55cd09ab498ebb16372dfbf0,Blue Downs,0,No Rating Yet
+370,Eersterivier,River,846,-34.001825483035084,18.706399145400297,4c682d427963be9a98b2ccbc,Blue Downs,3,No Rating Yet
+371,Saratoga Spur,Breakfast Spot,292,-33.90485846156931,18.588347575011024,4e09f6ceaeb74c399121300d,Parow,3,No Rating Yet
+372,KFC,Fast Food Restaurant,590,-33.90468393175943,18.592765777767774,4fa8d5fae4b05f800c4251d1,Parow,3,No Rating Yet
+373,Nando's,Portuguese Restaurant,552,-33.9045883,18.59236506,4e184f0f62e12640d873cc8f,Parow,5,No Rating Yet
+374,China Town - Shoprite Park,Shopping Mall,748,-33.90705362114536,18.592899136432468,4f968fe2e4b0e1b63553153f,Parow,9,No Rating Yet
+375,Century Superspar,Grocery Store,327,-33.90530829,18.58799458,4d5ffaa19f67f04daf2273fb,Parow,5,No Rating Yet
+376,Avondale Train Station,Train Station,745,-33.897718129836065,18.592595663099143,4fa9ff1fe4b0956aefcf5e5d,Parow,0,No Rating Yet
+377,Bidvest McCarthy VW Parow,Automotive Shop,783,-33.90498558,18.59487904,4e3f7a8d62e19d6109895f9b,Parow,0,No Rating Yet
+378,Harlequin Restaurant,Italian Restaurant,795,-33.904106861855865,18.595328592007352,4c2a54338ef52d7fbbb32fba,Parow,3,No Rating Yet
+379,Spar - Parow - Marina's,Supermarket,831,-33.89562785625458,18.590481877326965,4c5e7cc885a1e21ed16e5c11,Parow,0,No Rating Yet
+380,Ajax Cape Town,Soccer Field,848,-33.896328274612706,18.5815464314535,4daee88e8154d1d4886ffb42,Parow,1,No Rating Yet
+381,Engen Tierberg Service Convenience Centre,Gas Station,889,-33.90183641,18.59653386,4e4f54f318a8af30fd841d21,Parow,0,No Rating Yet
+382,Parow Athletics Track,Athletics & Sports,903,-33.89464273023277,18.58447444430556,4e02010662843b639cfd38e2,Parow,2,No Rating Yet
+383,Steers,Fast Food Restaurant,935,-33.903863612228015,18.596936735535905,4d4fdd9be02754813cd19ab6,Parow,0,No Rating Yet
+384,Ultra Liquors Parow,Liquor Store,959,-33.903703305450385,18.59722462235343,4ff5a324e4b0d6158374d70c,Parow,1,No Rating Yet
+385,Woolworths Palm Grove,Grocery Store,738,-33.83378313206032,18.64783363949601,4be1a45542e8c928fa783406,Durbanville,7,No Rating Yet
+386,D's Speakeasy,Pub,957,-33.83209368358392,18.646245724366526,4f0d6c0de4b01660dc7720d1,Durbanville,17,No Rating Yet
+387,Silver Creek Spur,Breakfast Spot,866,-33.83266883428387,18.647458194082898,4c45cc57f799e21eaab0afa2,Durbanville,9,No Rating Yet
+388,Slug And Lettuce,Steakhouse,869,-33.83292198978405,18.646268665951144,5256f5a211d2857ca3662556,Durbanville,19,No Rating Yet
+389,Virgin Active Health Club,Gym,992,-33.831549399923496,18.647232358675737,4d13181affa1224b3ff59dad,Durbanville,7,No Rating Yet
+390,Mugg & Bean,Coffee Shop,752,-33.8336878,18.6476441,4c7e2c3fd461a143ae2d7ff5,Durbanville,6,No Rating Yet
+391,Buena Vista Social Café,Cuban Restaurant,746,-33.833696085905466,18.647910850037945,5256fd71498ec65c3ea54bc1,Durbanville,6,No Rating Yet
+392,Cape Pillars Boutique Guest House,Bed & Breakfast,223,-33.84225855486764,18.64983614856077,4d2abd5c4ab78eecc7043126,Durbanville,1,No Rating Yet
+393,Simply Asia Durbanville,Thai Restaurant,939,-33.83230550518704,18.64610820068808,4dde780688779c82bec4fbe6,Durbanville,7,No Rating Yet
+394,Roman's Pizza,Pizza Place,907,-33.832498,18.646523000000002,4b9e7349f964a520ece436e3,Durbanville,2,No Rating Yet
+395,De Ville Mall,Shopping Mall,997,-33.83155148600162,18.647000396103184,4d26ced4ebacb1f70b83e14f,Durbanville,1,No Rating Yet
+396,Lorenzo Marx,Coffee Shop,674,-34.09420320453125,18.490519583454553,4ffd3826e4b07c449d5a533f,Muizenberg,8,No Rating Yet
+397,Sunrise Beach,Beach,667,-34.10337168015757,18.481898156103693,4e0b3e9acc3f0e8737cad9f0,Muizenberg,17,No Rating Yet
+398,Muizenberg Flea Market,Flea Market,694,-34.102981917653054,18.48040848620249,4ba5ec1ef964a520692939e3,Muizenberg,10,No Rating Yet
+399,Upper Crust Pizzeria,Pizza Place,728,-34.09292170397636,18.479423104938363,4ca0d82203133704ca777ed5,Muizenberg,7,No Rating Yet
+400,Steers,Fast Food Restaurant,450,-34.097426,18.479792,5cc74bf6a4b51b002c86a168,Muizenberg,0,No Rating Yet
+401,Fish Hoek Fisheries,Seafood Restaurant,691,-34.13626448054778,18.432016968727115,4c4f15abdb2c20a15b4d7875,Fish Hoek,9,No Rating Yet
+402,Fish Hoek Beach,Beach,877,-34.13711698645851,18.43428611755371,4b6d405af964a5209f6d2ce3,Fish Hoek,93,No Rating Yet
+403,Bhandaris,Indian Restaurant,538,-34.14038928605399,18.42994630336761,4d04555890762d43989ff18a,Fish Hoek,7,No Rating Yet
+404,Beachcomber Bistro,Seafood Restaurant,735,-34.14079131124154,18.43210151537895,4d045c1f90762d439ca5f18a,Fish Hoek,5,No Rating Yet
+405,The Galley Restaurant,Seafood Restaurant,736,-34.14096809004105,18.432001067416216,4cfbaf1f41eca090d392d650,Fish Hoek,15,No Rating Yet
+406,Woolworths,Grocery Store,597,-34.138555570681795,18.43128204345703,4c618eeba2749521b0b49693,Fish Hoek,3,No Rating Yet
+407,Golden River Spur,Breakfast Spot,625,-34.13833865026225,18.43161100231141,4d276f13d86aa090140b1ec0,Fish Hoek,8,No Rating Yet
+408,KFC,Fast Food Restaurant,626,-34.1375,18.4316,4c618e1fa2749521da9f9693,Fish Hoek,2,No Rating Yet
+409,SPAR,Grocery Store,688,-34.13270067,18.42109237,4c833b871b63b7130a629204,Fish Hoek,2,No Rating Yet
+410,Shell,Gas Station,616,-34.13777558,18.43151341,4d1cd48e763fb1f755338e66,Fish Hoek,0,No Rating Yet
+411,Steers,Burger Joint,603,-34.138279499999996,18.4313687,4c8206028ce59c74124277b0,Fish Hoek,5,No Rating Yet
+412,The Victorian Times,Pub,530,-34.140537224197395,18.42974709364005,4c2dfef6e307d13a8db50eda,Fish Hoek,4,No Rating Yet
+413,Pappa Jo's,Bar,569,-34.13796504370141,18.431013822555546,4c8110366cc2b713de32169b,Fish Hoek,0,No Rating Yet
+414,Engen Clarks Garage,Gas Station,583,-34.1385171,18.43113439,4c58e9dfb8b3c9b6d52188b6,Fish Hoek,1,No Rating Yet
+415,Zone Fitness,Gym,617,-34.13827708224149,18.431525678931514,4c6194e079d1e21ea10dd415,Fish Hoek,2,No Rating Yet
+416,Valyland Shopping Centre,Convenience Store,677,-34.13272690003411,18.42126738691376,4da028eb54dd8cfa759f5372,Fish Hoek,2,No Rating Yet
+417,Shoprite Fish Hoek,Grocery Store,734,-34.135376444412664,18.43211889266968,4c618b42a27495219f639693,Fish Hoek,0,No Rating Yet
+418,Fish Hoek Station,Train Station,735,-34.13688941792824,18.432683452138605,4c51487b991c20a1e1338487,Fish Hoek,4,No Rating Yet
+419,Mike's Kitchen,Steakhouse,239,-33.87908356722952,18.498939156201306,4cde713370bba1cd2a5160c4,Milnerton,15,No Rating Yet
+420,Milnerton Golf Club,Golf Course,763,-33.875475232638976,18.489646911621094,4b4e096cf964a52022df26e3,Milnerton,7,No Rating Yet
+421,Milnerton Beach,Beach,875,-33.88140737961073,18.48721928570245,4d03505a28926ea83fe664c2,Milnerton,18,No Rating Yet
+422,Spar,Supermarket,367,-33.882659559840754,18.49548354305452,4c48280b417b20a154e5dfa9,Milnerton,6,No Rating Yet
+423,Maestro's On The Beach,Italian Restaurant,861,-33.880785605897174,18.48721203182492,4b5197dff964a5204a5027e3,Milnerton,64,No Rating Yet
+424,Ilha Restaurant and Bar,Bar,854,-33.881766578311876,18.487576962907266,4cfa508d7945224b273c7fe7,Milnerton,9,No Rating Yet
+425,Nando's,Portuguese Restaurant,622,-33.8848875,18.4948361,5360d812498e4f74dedfe6cb,Milnerton,6,No Rating Yet
+426,Milnerton Lighthouse,Lighthouse,829,-33.88168362231586,18.48782300949097,4d1b3580c5f5b1f7d6efd936,Milnerton,6,No Rating Yet
+427,St Elmo's,Pizza Place,227,-33.87929069363612,18.498847220926315,4d8e2cc93bfef04da8249286,Milnerton,0,No Rating Yet
+428,Tong Lok,Chinese Restaurant,246,-33.87958689387763,18.49904537200928,4d595f318492a1431e982627,Milnerton,2,No Rating Yet
+429,KFC,Fast Food Restaurant,643,-33.885069059864065,18.494773192625058,4dc544cd52b1e8f9f7cec96b,Milnerton,0,No Rating Yet
+430,Shoprite,Supermarket,439,-33.88338483819892,18.496053,4c83673d74d7b60cb68c89d8,Milnerton,2,No Rating Yet
+431,Pick n Pay,Grocery Store,593,-33.883956984744714,18.492975239290107,4c5d20467f661b8d6d944a1c,Milnerton,0,No Rating Yet
+432,Bang,Tapas Restaurant,848,-33.881790454582976,18.487654913866397,4d08e24e1657a35d41112fe7,Milnerton,3,No Rating Yet
+433,MyCiti Bus Station Milnerton,Bus Station,855,-33.87179402544068,18.495531539049853,4dc02a0643a147cd6ed23555,Milnerton,0,No Rating Yet
+434,Maynardville Open-Air Theatre,Performing Arts Venue,326,-34.005308220034564,18.4643572287888,4b616a99f964a520ce122ae3,Wynberg,19,No Rating Yet
+435,Caffé Verdi,Bar,522,-34.0068535637128,18.46314632443417,4c49ae9920ab1b8dcc081b17,Wynberg,13,No Rating Yet
+436,Four and Twenty Cafe,Café,504,-34.00678605841462,18.463326452769397,5184d993498e26edec1cba6f,Wynberg,50,No Rating Yet
+437,Erawan Thai Restaurant & Bar,Thai Restaurant,522,-34.00695946987995,18.46325879446437,4f1c38b3e4b0c74ef2a7e7cf,Wynberg,14,No Rating Yet
+438,Borusso's,Pizza Place,912,-33.99552605470877,18.468744110769986,4b43b6daf964a52061e725e3,Wynberg,21,No Rating Yet
+439,Bootlegger Coffee Company,Coffee Shop,856,-33.99604277171098,18.468850326813342,558bdf32498e9eae96599488,Wynberg,38,No Rating Yet
+440,Bibi's Kitchen,Indian Restaurant,711,-34.00419682928632,18.4749309609382,4b929311f964a520bb0534e3,Wynberg,4,No Rating Yet
+441,Jakes on Summerley,Gastropub,920,-33.99553438689696,18.46931897306063,4c1e0119fcf8c9b60d97ac0b,Wynberg,12,No Rating Yet
+442,Wynberg Pharmacy,Pharmacy,554,-34.00837691487928,18.46904640899824,4bd88cdcf645c9b6543aa8e0,Wynberg,8,No Rating Yet
+443,Favorito Caffe,Coffee Shop,181,-34.00363615526734,18.469219604404646,4dcb95fd1838cc2cc64f8469,Wynberg,3,No Rating Yet
+444,Thistles,Coffee Shop,155,-34.004088862329,18.46884101629257,4bb70451f562ef3be4f63097,Wynberg,0,No Rating Yet
+445,Maynard Mall,Shopping Mall,530,-34.00553503820076,18.46198811421251,4cbc83a6bac937047cb2f87c,Wynberg,2,No Rating Yet
+446,Wynberg Boys High Astroturf,Soccer Field,530,-34.00064259697205,18.46276478733513,4e4f477d18383eb2af1fb777,Wynberg,0,No Rating Yet
+447,Wynberg Indoor Hockey Arena,Hockey Arena,625,-34.005569730393816,18.460893630981445,4b5c852df964a520163429e3,Wynberg,2,No Rating Yet
+448,Ultra Liquors,Liquor Store,840,-34.011086304264985,18.468664646148678,4d6e661b30d5b1f74da3c642,Wynberg,4,No Rating Yet
+449,BP,Gas Station,896,-34.00231298,18.4768358,4df5be06b0fb807158c9bc13,Wynberg,1,No Rating Yet
+450,Wild Bean Cafe,Café,904,-34.00207357,18.476876999999998,4ded0025d164bd989b1ad5da,Wynberg,0,No Rating Yet
+451,Eat Out The Box,Pizza Place,973,-34.01148928008831,18.46264306979053,4d52dfd8e0275481225fb9b6,Wynberg,1,No Rating Yet
+452,Wynberg Sportsfield,Athletics & Sports,997,-34.00262060032873,18.477994488197545,4dfc8f23b61c84188eed137c,Wynberg,0,No Rating Yet
+453,Checkers,Convenience Store,838,-33.843976964481364,18.677121952643528,4c9164ccb641236abe4d8179,Kuils River,8,No Rating Yet
+454,Cobble Walk,Shopping Mall,862,-33.84392872937349,18.677382931754114,4b587e2af964a5205e5a28e3,Kuils River,16,No Rating Yet
+455,Ocean Basket Glengarry Shopping Centre,Seafood Restaurant,738,-33.849090000000004,18.67419,4e479d6daeb70e74f4a45ba3,Kuils River,0,No Rating Yet
+456,Sonstraal Dam,Lake,687,-33.848641245561964,18.6622953414917,4bcb21da0687ef3bd809ddcc,Kuils River,4,No Rating Yet
+457,"Woolworths, Cobble Walk",Food Court,821,-33.84420709684885,18.67695956573364,4ba4afd1f964a52056ac38e3,Kuils River,4,No Rating Yet
+458,Caffe Rossini,Café,842,-33.844046999999996,18.677177,4d4e6705a0b0a093e0844d83,Kuils River,2,No Rating Yet
+459,Asami's,Asian Restaurant,843,-33.84390007467076,18.677162549382054,52fb98de498e79efe14d61ff,Kuils River,6,No Rating Yet
+460,"Clicks, Cobble walk",Cosmetics Shop,872,-33.84410428593529,18.67751263055678,4cfe614f084f54811b3a9009,Kuils River,2,No Rating Yet
+461,Mr Video,Video Store,938,-33.8444923301706,18.678248015380312,4c8e923c1992a1cdc8d5defb,Kuils River,0,No Rating Yet
